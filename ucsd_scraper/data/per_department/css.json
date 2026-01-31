@@ -1,0 +1,65 @@
+[
+  {
+    "code": "CSS 1",
+    "title": "Introductory Programming for Computational Social Science",
+    "units": 4,
+    "description": "This course develops computational thinking practices and skills critical for defining, describing, and analyzing social science problems using a computational approach. Students will learn to program in Python in the context of computational social science problems.",
+    "prereq_raw": null
+  },
+  {
+    "code": "CSS 2",
+    "title": "Data and Model Programming for Computational Social Science",
+    "units": 4,
+    "description": "This course explores the use of computational methods across the social sciences. Topics include thinking like a computational social scientist; research design for big data; legal and ethical dimensions of computational social science (CSS). Students will implement demonstrations of these methods in Python.",
+    "prereq_raw": "CSS 1\u00a0and\u00a0choose\u00a0one\u00a0of the following courses: COGS 14B, MATH 11, MGT 3, POLI 30, POLI 30D, PSYC 60."
+  },
+  {
+    "code": "CSS 100",
+    "title": "Advanced Programming for Computational Social Science",
+    "units": 4,
+    "description": "This course develops advanced computational problem-solving skills including common algorithms, data structures, and advanced tool and library options. The class provides further development in Python.",
+    "prereq_raw": "CSS 2."
+  },
+  {
+    "code": "CSS 201S",
+    "title": "Introduction to Computational Social Science",
+    "units": 8,
+    "description": "Overview of causal and statistical inference, data types/structure, and modeling/analytical approaches to social science data. Topics include models of social phenomena at different scales (cognition, behavior, learning, communication, language, game theory, markets, etc.) and analysis of different types of social data (social networks, text, GIS, timeseries, etc.). Emphasis is placed on the understanding of analytical and modeling methods, their applications and limitations. Open to CT75 majors only.",
+    "prereq_raw": null
+  },
+  {
+    "code": "CSS 202S",
+    "title": "Computational Social Science Technical Boot Camp",
+    "units": 8,
+    "description": "This course provides practical experience with the technical skills underpinning computational social science. Topics may include calculus, linear algebra, probability, Unix/Linux, working in the terminal, file encoding, file system organization, Python, numpy, pandas, scikit, notebooks, matplotlib, code style, scraping, data storage, SQL, JSON, CSV/TSV, version control, git, spreadsheets, algorithms, basic data visualization, and machine learning basics. Open to CT75 majors only.",
+    "prereq_raw": null
+  },
+  {
+    "code": "CSS 204",
+    "title": "Statistical Computing and Inference from Data I",
+    "units": 6,
+    "description": "The first of a series of intensive courses in statistical computing to draw inferences from data. This course covers research design, causal inference, data wrangling, visualization, probability, statistical inference, and the general linear model.",
+    "prereq_raw": "graduate standing."
+  },
+  {
+    "code": "CSS 209",
+    "title": "Computational Social Science Research Seminar",
+    "units": 1,
+    "description": "A weekly seminar series focused on selected topics in computational social science.",
+    "prereq_raw": "graduate standing."
+  },
+  {
+    "code": "CSS 296",
+    "title": "Research in Computational Social Science",
+    "units": 2,
+    "description": "Independent research under the supervision of individual faculty members.",
+    "prereq_raw": "graduate standing."
+  },
+  {
+    "code": "CSS 500",
+    "title": "Teaching Apprentice",
+    "units": 4,
+    "description": "Graduate students are required to enroll in a teaching assistantship course while supporting undergraduate courses.",
+    "prereq_raw": "graduate standing."
+  }
+]

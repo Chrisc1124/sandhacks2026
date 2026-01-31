@@ -1,0 +1,128 @@
+[
+  {
+    "code": "CHIN 165A",
+    "title": "Business Chinese I",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on oral and written communication skills for business, including introduction to modern business terminology and social conventions.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165B-C, CHIN 185A-B-C."
+  },
+  {
+    "code": "CHIN 165B",
+    "title": "Business Chinese II",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on oral and written communication skills for business, including introduction to modern business terminology and social conventions.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A, CHIN 165C, CHIN 185A-B-C."
+  },
+  {
+    "code": "CHIN 165C",
+    "title": "Business Chinese III",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on oral and written communication skills for business, including introduction to modern business terminology and social conventions.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A-B, CHIN 185A-B-C."
+  },
+  {
+    "code": "CHIN 169A",
+    "title": "Medical Chinese I",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on conversational medical Chinese for students interested in medicine and health care. Designed to prepare students to speak, listen, and read effectively in a Chinese medical environment and build necessary medical vocabulary.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169B, CHIN 182A-B-C."
+  },
+  {
+    "code": "CHIN 169B",
+    "title": "Medical Chinese II",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on conversational medical Chinese for students interested in medicine and health care. Designed to prepare students to speak, listen, and read effectively in a Chinese medical environment and build necessary medical vocabulary.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169A, CHIN 182A-B-C."
+  },
+  {
+    "code": "CHIN 182A",
+    "title": "Classical Chinese I",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on building familiarity with classical Chinese. Basic structures and function words are taught through fables of the pre-Qing period.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169A-B, CHIN 182B-C, CHIN 185A-B-C."
+  },
+  {
+    "code": "CHIN 182B",
+    "title": "Classical Chinese II",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on building familiarity with classical Chinese. Selections from Kongzi, Mengzi, and work of other philosophers will be taught. Focus is on structures, function words, and overall comprehension of a text.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169A-B, CHIN 182A, CHIN 182C, CHIN 185A-B-C."
+  },
+  {
+    "code": "CHIN 182C",
+    "title": "Classical Chinese III",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that focuses on building familiarity with classical Chinese. Selections from later periods like Shiji and poetry will be introduced. Focus is on structures, function words, and overall comprehension of a text.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 165A-B-C, CHIN 169A-B, CHIN 182A-B, CHIN 185A-B-C."
+  },
+  {
+    "code": "CHIN 185A",
+    "title": "Readings in Chinese Culture and Society I",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that engages students on topics related to Chinese culture and society past and present through study of original texts and other media that expand reading and vocabulary skills on topics of interest.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A-B-C, CHIN 185B-C."
+  },
+  {
+    "code": "CHIN 185B",
+    "title": "Readings in Chinese Culture and Society II",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that engages students on topics related to Chinese culture and society past and present through study of original texts and other media that expand reading and vocabulary skills on topics of interest.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A-B-C, CHIN 185A, CHIN 185C."
+  },
+  {
+    "code": "CHIN 185C",
+    "title": "Readings in Chinese Culture and Society III",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course that engages students on topics related to Chinese culture and society past and present through study of original texts and other media that expand reading and vocabulary skills on topics of interest.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 165A-B-C, CHIN 185A-B."
+  },
+  {
+    "code": "CHIN 186A",
+    "title": "Readings in Chinese Economics, Politics, and Trade I",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course designed for students interested in international trade or social science that engages students on topics related to Chinese economics, politics, and trade through study of original texts and other media that expand specialized vocabulary development, reading, and translating.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 186B-C."
+  },
+  {
+    "code": "CHIN 186B",
+    "title": "Readings in Chinese Economics, Politics, and Trade II",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course designed for students interested in international trade or social science that engages students on topics related to Chinese economics, politics, and trade through study of original texts and other media that expand specialized vocabulary development, reading, and translating.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 186A, CHIN 186C."
+  },
+  {
+    "code": "CHIN 186C",
+    "title": "Readings in Chinese Economics, Politics, and Trade III",
+    "units": 4,
+    "description": "Advanced Mandarin Chinese language course designed for students interested in international trade or social science that engages students on topics related to Chinese economics, politics, and trade through study of original texts and other media that expand specialized vocabulary development, reading, and translating.",
+    "prereq_raw": "any one of the following or department approval through placement interview: CHIN 100CM, CHIN 100CN, CHIN 186A, CHIN 186CB."
+  },
+  {
+    "code": "CHIN 260",
+    "title": "Late Imperial and Twentieth-Century Chinese Historical Texts",
+    "units": 4,
+    "description": "This course introduces the primary sources used by historians of the late Imperial and twentieth-century Chinese history. Reading material includes diaries, newspaper articles, Qing documents, gazetteers, essays, speeches, popular fiction, journal articles, scholarly prose, and field surveys. May be repeated for credit. (P/NP grades only)",
+    "prereq_raw": "department stamp, advanced knowledge of Chinese language, and consent of instructor."
+  },
+  {
+    "code": "CHIN 296",
+    "title": "Directed Thesis Research",
+    "units": 2,
+    "description": "Graduate thesis research under the guidance of a faculty member affiliated with the Program in Chinese Studies.",
+    "prereq_raw": null
+  },
+  {
+    "code": "CHIN 299",
+    "title": "Independent Study in Chinese Studies",
+    "units": 2,
+    "description": "Independent graduate research under the guidance of a faculty member affiliated with the Program in Chinese Studies.",
+    "prereq_raw": "graduate standing and consent of instructor."
+  },
+  {
+    "code": "CHIN 500",
+    "title": "Apprentice Teaching",
+    "units": 2,
+    "description": "A course in which graduate teaching assistants are aided in learning proper teaching methods by means of supervision of their work by the faculty, handling of discussions, assistance in the preparation and grading of exams and other written exercises, and student relations.",
+    "prereq_raw": "graduate standing."
+  }
+]

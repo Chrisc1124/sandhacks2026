@@ -1,0 +1,30 @@
+[
+  {
+    "code": "GSS 20",
+    "title": "Introduction to Global South Studies",
+    "units": 4,
+    "description": "This introductory course examines historical and theoretical debates on the Global South. Especially important are socioeconomic, political, as well as cultural processes, as they are key factors to understanding the Global South across the globe.",
+    "prereq_raw": null
+  },
+  {
+    "code": "GSS 132",
+    "title": "Literature and Global South Societies",
+    "units": 4,
+    "description": "This course will investigate novelistic and dramatic treatments of European society in the era of nineteenth-century imperialism, Global South societies under the impact of colonialism, and the position of national minorities inside the United States to the present day. Attention will center on the interplay between the aesthetic merits and social-historical-philosophical content of the works read.",
+    "prereq_raw": null
+  },
+  {
+    "code": "GSS 190",
+    "title": "Undergraduate Seminars",
+    "units": 4,
+    "description": "Seminars will be organized on the basis of topics with readings, discussions, and papers. Specific subjects to be covered will change each quarter depending on particular interest of instructors or students. May be repeated for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "GSS 197",
+    "title": "Fieldwork",
+    "units": 4,
+    "description": "In an attempt to explore and study some unique processes and aspects of community life, students will engage in research in field settings. Topics to be researched may vary, but in each case the course will provide skills for carrying out these studies.",
+    "prereq_raw": null
+  }
+]

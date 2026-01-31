@@ -1,0 +1,128 @@
+[
+  {
+    "code": "JAPN 10A",
+    "title": "First-Year Japanese",
+    "units": 5,
+    "description": "This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-five characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture.",
+    "prereq_raw": null
+  },
+  {
+    "code": "JAPN 10B",
+    "title": "First-Year Japanese",
+    "units": 5,
+    "description": "This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over seventy-two additional characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 10C",
+    "title": "First-Year Japanese",
+    "units": 5,
+    "description": "This course is an introduction to the Japanese language. Students will learn basic skills of listening, speaking, reading, and writing over forty-eight additional characters. Students will also acquire fundamental knowledge of Japanese grammar and learn about Japanese people and culture.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 20A",
+    "title": "Second-Year Japanese",
+    "units": 5,
+    "description": "Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of Japanese transportation, trips, and geography.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 20B",
+    "title": "Second-Year Japanese",
+    "units": 5,
+    "description": "Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of life experiences, Japanese culture, customs, health, and school.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 20C",
+    "title": "Second-Year Japanese",
+    "units": 5,
+    "description": "Students will improve their fundamental skills in listening, speaking, reading, and writing including acquiring knowledge of Japanese culture and customs. Students will conduct research including writing a short essay and presentation.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 130A",
+    "title": "Third-Year Japanese",
+    "units": 4,
+    "description": "This course will require students to gain knowledge, comprehend, evaluate, and discuss Japanese customs. Students will critically analyze and compare culture and customs of Japan and other countries. Course work includes student research on issues in Japanese society.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 130B",
+    "title": "Third-Year Japanese",
+    "units": 4,
+    "description": "This course will require students to gain knowledge, comprehend, evaluate, and discuss topics of education system and youth issues in Japan and other countries. Students will learn vocabulary and phrases to support, explain, research, and hypothesize concrete and abstract topics.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 130C",
+    "title": "Third-Year Japanese",
+    "units": 4,
+    "description": "This course will require students to gain knowledge, comprehend, evaluate, and discuss the environment and internationalization issues. Students will learn vocabulary and phrases to critically analyze and compare, express their opinions, and present and propose possible solutions for these topics.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 135A",
+    "title": "Professional Skills in Japanese",
+    "units": 4,
+    "description": "Training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted.",
+    "prereq_raw": "JAPN 20C, or consent of instructor."
+  },
+  {
+    "code": "JAPN 135B",
+    "title": "Professional Skills in Japanese",
+    "units": 4,
+    "description": "Continuation of training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted.",
+    "prereq_raw": "JAPN 135A, or consent of instructor."
+  },
+  {
+    "code": "JAPN 135C",
+    "title": "Professional Skills in Japanese",
+    "units": 4,
+    "description": "Continuation of training in oral and written communication skills for professional settings in Japanese. Broad aspects of cultural issues in Japanese organizations are introduced and comparison of American and Japanese cultural business patterns will be conducted.",
+    "prereq_raw": "JAPN 135B."
+  },
+  {
+    "code": "JAPN 137A",
+    "title": "Business Japanese",
+    "units": 4,
+    "description": "Training in oral and written communication and customs related to business in Japan. Students will analyze Japanese business practices, manners, and trends using case studies, newspapers, broadcasts, and websites to develop knowledge about the Japanese business world.",
+    "prereq_raw": "JAPN 20C or consent of instructor."
+  },
+  {
+    "code": "JAPN 137B",
+    "title": "Business Japanese",
+    "units": 4,
+    "description": "Training in oral and written communication and customs related to business in Japan. Students will analyze Japanese business practices, manners, and trends using case studies, newspapers, broadcasts, and websites to develop knowledge about the Japanese business world.",
+    "prereq_raw": "JAPN 20C or consent of instructor."
+  },
+  {
+    "code": "JAPN 137C",
+    "title": "Business Japanese",
+    "units": 4,
+    "description": "Training in oral and written communication and customs related to business in Japan. Students will analyze Japanese business practices, manners, and trends using case studies, newspapers, broadcasts, and websites to develop knowledge about the Japanese business world.",
+    "prereq_raw": "JAPN 20C or consent of instructor."
+  },
+  {
+    "code": "JAPN 140A",
+    "title": "Fourth-Year Japanese",
+    "units": 4,
+    "description": "This course will enable students to acquire advanced skills in speaking, listening, reading, and writing in the topics of Japanese youth culture and their way of thinking.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 140B",
+    "title": "Fourth-Year Japanese",
+    "units": 4,
+    "description": "This course will enable students to acquire advanced skills in speaking, listening, reading, and writing in the topics of career building and obtaining a job in Japan.",
+    "prereq_raw": "previous course or consent of instructor."
+  },
+  {
+    "code": "JAPN 140C",
+    "title": "Fourth-Year Japanese",
+    "units": 4,
+    "description": "This course will enable students to acquire advanced skills in speaking, listening, reading, and writing in the topics of globalization in language, food, and culture in Japan, the U.S., and other countries.",
+    "prereq_raw": "previous course or consent of instructor."
+  }
+]

@@ -1,0 +1,473 @@
+UCSD Catalog Validation Report
+============================================================
+Department pages checked: 86
+Departments with no issues: 80
+Departments with issues: 6 ['HIST', 'MAE-AESE', 'MGT', 'SCIS', 'SIO', 'SOC']
+
+Total unique courses on live catalog: 6680
+Total courses in our JSON: 6680
+Missing in ours (on catalog but not in our data): 0
+Extra in ours (in our data but not on any catalog page): 0
+Title mismatches (matching code, different title): 0
+Units mismatches (matching code, different units): 0
+Prereq_raw mismatches (matching code, different prereq text): 10
+
+============================================================
+Department: AAPI (/courses/AAPI.html)
+  Live catalog: 2 courses | In our data: 2
+  OK
+
+============================================================
+Department: AASM (/courses/AASM.html)
+  Live catalog: 14 courses | In our data: 14
+  OK
+
+============================================================
+Department: AIP (/courses/AIP.html)
+  Live catalog: 1 courses | In our data: 1
+  OK
+
+============================================================
+Department: ANTH (/courses/ANTH.html)
+  Live catalog: 286 courses | In our data: 286
+  OK
+
+============================================================
+Department: ASTR (/courses/ASTR.html)
+  Live catalog: 60 courses | In our data: 60
+  OK
+
+============================================================
+Department: AUDL (/courses/AUDL.html)
+  Live catalog: 16 courses | In our data: 16
+  OK
+
+============================================================
+Department: AWP (/courses/AWP.html)
+  Live catalog: 11 courses | In our data: 11
+  OK
+
+============================================================
+Department: BENG (/courses/BENG.html)
+  Live catalog: 92 courses | In our data: 92
+  OK
+
+============================================================
+Department: BIOI (/courses/BIOI.html)
+  Live catalog: 10 courses | In our data: 10
+  OK
+
+============================================================
+Department: BIOL (/courses/BIOL.html)
+  Live catalog: 224 courses | In our data: 224
+  OK
+
+============================================================
+Department: BIOM (/courses/BIOM.html)
+  Live catalog: 27 courses | In our data: 27
+  OK
+
+============================================================
+Department: CAT (/courses/CAT.html)
+  Live catalog: 14 courses | In our data: 14
+  OK
+
+============================================================
+Department: CCE (/courses/CCE.html)
+  Live catalog: 3 courses | In our data: 3
+  OK
+
+============================================================
+Department: CCS (/courses/CCS.html)
+  Live catalog: 5 courses | In our data: 5
+  OK
+
+============================================================
+Department: CGS (/courses/CGS.html)
+  Live catalog: 47 courses | In our data: 47
+  OK
+
+============================================================
+Department: CHEM (/courses/CHEM.html)
+  Live catalog: 155 courses | In our data: 155
+  OK
+
+============================================================
+Department: CHIN (/courses/CHIN.html)
+  Live catalog: 18 courses | In our data: 18
+  OK
+
+============================================================
+Department: CIN (/courses/CIN.html)
+  Live catalog: 10 courses | In our data: 10
+  OK
+
+============================================================
+Department: CLAS (/courses/CLAS.html)
+  Live catalog: 9 courses | In our data: 9
+  OK
+
+============================================================
+Department: CLIN (/courses/CLIN.html)
+  Live catalog: 5 courses | In our data: 5
+  OK
+
+============================================================
+Department: CLRE (/courses/CLRE.html)
+  Live catalog: 38 courses | In our data: 38
+  OK
+
+============================================================
+Department: CLS (/courses/CLS.html)
+  Live catalog: 9 courses | In our data: 9
+  OK
+
+============================================================
+Department: COGS (/courses/COGS.html)
+  Live catalog: 120 courses | In our data: 120
+  OK
+
+============================================================
+Department: COMM (/courses/COMM.html)
+  Live catalog: 209 courses | In our data: 209
+  OK
+
+============================================================
+Department: CSE (/courses/CSE.html)
+  Live catalog: 204 courses | In our data: 204
+  OK
+
+============================================================
+Department: CSP (/courses/CSP.html)
+  Live catalog: 5 courses | In our data: 5
+  OK
+
+============================================================
+Department: DOC (/courses/DOC.html)
+  Live catalog: 4 courses | In our data: 4
+  OK
+
+============================================================
+Department: DSC (/courses/DSC.html)
+  Live catalog: 69 courses | In our data: 69
+  OK
+
+============================================================
+Department: DSGN (/courses/DSGN.html)
+  Live catalog: 13 courses | In our data: 13
+  OK
+
+============================================================
+Department: ECE (/courses/ECE.html)
+  Live catalog: 194 courses | In our data: 194
+  OK
+
+============================================================
+Department: ECON (/courses/ECON.html)
+  Live catalog: 153 courses | In our data: 153
+  OK
+
+============================================================
+Department: EDS (/courses/EDS.html)
+  Live catalog: 166 courses | In our data: 166
+  OK
+
+============================================================
+Department: ENG (/courses/ENG.html)
+  Live catalog: 15 courses | In our data: 15
+  OK
+
+============================================================
+Department: ENVR (/courses/ENVR.html)
+  Live catalog: 15 courses | In our data: 15
+  OK
+
+============================================================
+Department: ERC (/courses/ERC.html)
+  Live catalog: 11 courses | In our data: 11
+  OK
+
+============================================================
+Department: ESYS (/courses/ESYS.html)
+  Live catalog: 10 courses | In our data: 10
+  OK
+
+============================================================
+Department: ETHN (/courses/ETHN.html)
+  Live catalog: 157 courses | In our data: 157
+  OK
+
+============================================================
+Department: GLBH (/courses/GLBH.html)
+  Live catalog: 67 courses | In our data: 67
+  OK
+
+============================================================
+Department: GPS (/courses/GPS.html)
+  Live catalog: 151 courses | In our data: 151
+  OK
+
+============================================================
+Department: GSS (/courses/GSS.html)
+  Live catalog: 4 courses | In our data: 4
+  OK
+
+============================================================
+Department: HDS (/courses/HDS.html)
+  Live catalog: 20 courses | In our data: 20
+  OK
+
+============================================================
+Department: HIST (/courses/HIST.html)
+  Live catalog: 347 courses | In our data: 347
+  PREREQ MISMATCH (1):
+    HITO 170:
+      live: 'upper-division or graduate standing and department stamp.'
+      ours: ''
+
+============================================================
+Department: HMNR (/courses/HMNR.html)
+  Live catalog: 0 courses | In our data: 0
+  OK
+
+============================================================
+Department: HUM (/courses/HUM.html)
+  Live catalog: 14 courses | In our data: 14
+  OK
+
+============================================================
+Department: INTL (/courses/INTL.html)
+  Live catalog: 8 courses | In our data: 8
+  OK
+
+============================================================
+Department: JAPN (/courses/JAPN.html)
+  Live catalog: 18 courses | In our data: 18
+  OK
+
+============================================================
+Department: JWSP (/courses/JWSP.html)
+  Live catalog: 16 courses | In our data: 16
+  OK
+
+============================================================
+Department: LATI (/courses/LATI.html)
+  Live catalog: 20 courses | In our data: 20
+  OK
+
+============================================================
+Department: LAWS (/courses/LAWS.html)
+  Live catalog: 2 courses | In our data: 2
+  OK
+
+============================================================
+Department: LHCO (/courses/LHCO.html)
+  Live catalog: 12 courses | In our data: 12
+  OK
+
+============================================================
+Department: LING (/courses/LING.html)
+  Live catalog: 102 courses | In our data: 102
+  OK
+
+============================================================
+Department: LIT (/courses/LIT.html)
+  Live catalog: 381 courses | In our data: 381
+  OK
+
+============================================================
+Department: MAE-AESE (/courses/MAE-AESE.html)
+  Live catalog: 9 courses | In our data: 9
+  PREREQ MISMATCH (3):
+    AESE 278E:
+      live: 'enrollment in MAS-AESE, AESE 278B-C-D, or instructor approval.'
+      ours: 'enrollment in MAS-CoSE, CoSE 260B and AESE 278C-D, or instructor approval.'
+    AESE 278D:
+      live: 'enrollment in MAS-AESE, AESE 278A (or CSE 278A or ECE 205A or MAE 277A), AESE 278C (or CSE 278C or E'
+      ours: 'enrollment in MAS-CoSE, CoSE 260A (or CSE 278A or ECE 205A or MAE 277A), AESE 278C (or CSE 278C or E'
+    AESE 278C:
+      live: 'enrollment in MAS-AESE, MGT 291, AESE 278A-B, or instructor approval. AESE 278C is cross-listed with'
+      ours: 'enrollment in MAS-CoSE, CoSE 260A-B, or instructor approval. AESE 278C is cross-listed with CSE 278C'
+
+============================================================
+Department: MAE (/courses/MAE.html)
+  Live catalog: 187 courses | In our data: 187
+  OK
+
+============================================================
+Department: MAS (/courses/MAS.html)
+  Live catalog: 22 courses | In our data: 22
+  OK
+
+============================================================
+Department: MATH (/courses/MATH.html)
+  Live catalog: 210 courses | In our data: 210
+  OK
+
+============================================================
+Department: MATS (/courses/MATS.html)
+  Live catalog: 25 courses | In our data: 25
+  OK
+
+============================================================
+Department: MBC (/courses/MBC.html)
+  Live catalog: 4 courses | In our data: 4
+  OK
+
+============================================================
+Department: MCWP (/courses/MCWP.html)
+  Live catalog: 6 courses | In our data: 6
+  OK
+
+============================================================
+Department: MGT (/courses/MGT.html)
+  Live catalog: 264 courses | In our data: 264
+  PREREQ MISMATCH (1):
+    MGTF 406:
+      live: 'MMGTF 402; restricted to master of quantitative finance program or with instructor approval or depar'
+      ours: 'MGTF 402; restricted to master of quantitative finance program or with instructor approval or depart'
+
+============================================================
+Department: MMW (/courses/MMW.html)
+  Live catalog: 12 courses | In our data: 12
+  OK
+
+============================================================
+Department: MSED (/courses/MSED.html)
+  Live catalog: 9 courses | In our data: 9
+  OK
+
+============================================================
+Department: MUS (/courses/MUS.html)
+  Live catalog: 130 courses | In our data: 130
+  OK
+
+============================================================
+Department: NANO (/courses/NANO.html)
+  Live catalog: 140 courses | In our data: 140
+  OK
+
+============================================================
+Department: NEU (/courses/NEU.html)
+  Live catalog: 24 courses | In our data: 24
+  OK
+
+============================================================
+Department: PAS (/courses/PAS.html)
+  Live catalog: 61 courses | In our data: 61
+  OK
+
+============================================================
+Department: PH (/courses/PH.html)
+  Live catalog: 131 courses | In our data: 131
+  OK
+
+============================================================
+Department: PHIL (/courses/PHIL.html)
+  Live catalog: 147 courses | In our data: 147
+  OK
+
+============================================================
+Department: PHYS (/courses/PHYS.html)
+  Live catalog: 124 courses | In our data: 124
+  OK
+
+============================================================
+Department: POLI (/courses/POLI.html)
+  Live catalog: 278 courses | In our data: 278
+  OK
+
+============================================================
+Department: PSYC (/courses/PSYC.html)
+  Live catalog: 162 courses | In our data: 162
+  OK
+
+============================================================
+Department: RELI (/courses/RELI.html)
+  Live catalog: 29 courses | In our data: 29
+  OK
+
+============================================================
+Department: REV (/courses/REV.html)
+  Live catalog: 9 courses | In our data: 9
+  OK
+
+============================================================
+Department: SCIS (/courses/SCIS.html)
+  Live catalog: 15 courses | In our data: 15
+  PREREQ MISMATCH (1):
+    PHIL 280:
+      live: 'graduate standing or consent of instructor.'
+      ours: ''
+
+============================================================
+Department: SE (/courses/SE.html)
+  Live catalog: 127 courses | In our data: 127
+  OK
+
+============================================================
+Department: SEV (/courses/SEV.html)
+  Live catalog: 3 courses | In our data: 3
+  OK
+
+============================================================
+Department: SIO (/courses/SIO.html)
+  Live catalog: 252 courses | In our data: 252
+  PREREQ MISMATCH (1):
+    SIO 295S:
+      live: 'MAS MBC students only; consent of instructor.'
+      ours: 'consent of instructors. Corequisites: SIO 295LS and MAS students only.'
+
+============================================================
+Department: SOC (/courses/SOC.html)
+  Live catalog: 190 courses | In our data: 190
+  PREREQ MISMATCH (3):
+    SOCG 284:
+      live: 'graduate standing in sociology.'
+      ours: 'graduate standing.'
+    SOCG 247:
+      live: 'graduate standing in sociology.'
+      ours: 'graduate standing.'
+    SOCG 234:
+      live: 'graduate standing in sociology.'
+      ours: 'graduate standing.'
+
+============================================================
+Department: SXTH (/courses/SXTH.html)
+  Live catalog: 3 courses | In our data: 3
+  OK
+
+============================================================
+Department: SYN (/courses/SYN.html)
+  Live catalog: 8 courses | In our data: 8
+  OK
+
+============================================================
+Department: THEA (/courses/THEA.html)
+  Live catalog: 206 courses | In our data: 206
+  OK
+
+============================================================
+Department: TMC (/courses/TMC.html)
+  Live catalog: 8 courses | In our data: 8
+  OK
+
+============================================================
+Department: USP (/courses/USP.html)
+  Live catalog: 101 courses | In our data: 101
+  OK
+
+============================================================
+Department: VIS (/courses/VIS.html)
+  Live catalog: 228 courses | In our data: 228
+  OK
+
+============================================================
+Department: WARR (/courses/WARR.html)
+  Live catalog: 8 courses | In our data: 8
+  OK
+
+============================================================
+Department: css (/courses/css.html)
+  Live catalog: 9 courses | In our data: 9
+  OK

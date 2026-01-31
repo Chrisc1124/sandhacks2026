@@ -1,0 +1,2669 @@
+[
+  {
+    "code": "LTAF 110",
+    "title": "African Oral Literature",
+    "units": 4,
+    "description": "Survey of various genres of African and oral literary traditions. Oral narrative genres, investigation of proverb, riddle, praise poetry, and epic. Development and use of a methodology to analyze aspects of performance, composition, and education in oral traditional systems.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAF 120",
+    "title": "Literature and Film of Modern Africa",
+    "units": 4,
+    "description": "This course traces the rise of modern literature in traditional African societies disrupted by the colonial and neocolonial experience. Contemporary films by African and Western artists will provide an additional insight into the complex social self-images of the continent. Students may not receive credit for both LTAF 120 and LTAF 120GS.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 87",
+    "title": "First-year Student Seminar",
+    "units": 1,
+    "description": "The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 100",
+    "title": "Latino/a Cultures in the United States",
+    "units": 4,
+    "description": "An introductory historical and cultural overview of the various Latino/a populations in the United States with a study of representative cultural texts.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 105",
+    "title": "Gender and Sexuality in Latino/a-Chicano/a Cultural Production",
+    "units": 4,
+    "description": "A study of the construction of differences in gender and sexual orientation in Latino/a-Chicano/a literature and other cultural production with an emphasis on examining various theoretical/ideological perspectives on these issues. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 107",
+    "title": "Comparative Latino/a and US Ethnic Cultures",
+    "units": 4,
+    "description": "A comparative and intersecting study of Latino/a and other US ethnic cultures. Literary texts will be viewed as \u201cwindows\u201d into real time and spaces where cultures meet and mix. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 108",
+    "title": "Chicano/a and Latino/a Cultures: Intellectual and Political Traditions",
+    "units": 4,
+    "description": "The course will center on Chicano/a-Latino/a writers and movements of literary, intellectual, cultural, or political significance. Texts may be read in the original language or in English. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 110",
+    "title": "Latin American Literature in Translation",
+    "units": 4,
+    "description": "Reading of representative works in Latin American literature with a view to literary analysis (form, theme, meaning), the developmental processes of the literature, and the many contexts: historical, social, cultural. Texts may be read in English. LTAM 110 and LTAM 110GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 111",
+    "title": "Comparative Caribbean Discourse",
+    "units": 4,
+    "description": "Comparative survey of Caribbean literatures from the Spanish, French, English, and Dutch Caribbean. Literary texts trace historical paradigms including the development of plantation slavery, emancipation, the quest for nationhood, migration, and transnational identities. Films and music may complement discussion.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 120",
+    "title": "Ecocultural Narratives from Latin America",
+    "units": 4,
+    "description": "This class examines different narratives of the environment from Latin America. Students are exposed to a variety of cultural sources (film, literature, orality) that question the Western divide between culture and nature, and between humans and non-humans. Particular emphasis will be paid to indigenous and Afro-Latin American ways of understanding nature, culture, and knowledge.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTAM 140",
+    "title": "Topics in Culture and Politics",
+    "units": 4,
+    "description": "Study of the relationships between cultural production (literature, film, popular culture), social change, and political conflict, covering topics such as colonialism, imperialism, modernization, social movements, dictatorship, and revolution. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCH 101",
+    "title": "Readings in Contemporary Chinese Literature",
+    "units": 4,
+    "description": "Intended for students who have the competence to read contemporary Chinese texts, poetry, short stories, and criticism in vernacular Chinese. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 201",
+    "title": "Theories and Methods of Literary Analysis",
+    "units": 4,
+    "description": "Contemporary theories of the significance of literary form. The seminar will concentrate on major interpretive approaches drawn from several areas of literary, cultural, and political analysis, including Marxist theory, feminism, psychoanalytic theory, postcolonial studies, LGBT studies, diaspora studies, and others. The particular focus and approach may vary. May be taken for credit up to three times as topics vary. Restricted to major code LT77 or consent of instructor and department. Nongraduate students may enroll with consent of instructor.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 274",
+    "title": "Genre Studies",
+    "units": 4,
+    "description": "A consideration of a representative selection of works relating to a theme, form, or literary genre. May be taken for credit up to three times as topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 281",
+    "title": "Literature and Film",
+    "units": 4,
+    "description": "A study of literature and film in relation to one another, to critical and aesthetic theories, and to historical context. May be taken for credit up to three times as topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 282",
+    "title": "Literature and Philosophy",
+    "units": 4,
+    "description": "Questions and problems from the history of philosophy or from the various fields of philosophy (e.g., epistemology, ethics, logic) in their interaction with intellectual issues and questions addressed by literary criticism and theory. May be taken for credit up to three times. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 284",
+    "title": "Performativity",
+    "units": 4,
+    "description": "This interdisciplinary course looks at performativity as a social process of cultural significance. It examines the works of John Searle, Jacques Derrida, Judith Butler, and Jose Esteban Munoz and underlines the role of performative action in linguistic, literary, cinematic, theatrical, political, and other forms of human interactivity. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 285",
+    "title": "Literature and Aesthetics",
+    "units": 4,
+    "description": "Research in literary theory and aesthetic philosophies. Single and multiple authors and topics; Plato and Aristotle, Renaissance treatises, Winckleman, Kant and Hegel in the Enlightenment, Warburg, Heidegger and Panofsky, contemporary art theory, et al. May be taken up to two times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 287",
+    "title": "Culture and Political Theory",
+    "units": 4,
+    "description": "A comparative approach of political theory based on historical periods (with the tools of new historicism), various cultures (inspired by anthropological research), and referring to the most important philosophical thinkers from Western and non-Western traditions. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 297",
+    "title": "Directed Studies: Reading Course",
+    "units": 1,
+    "description": "This course may be designed according to an individual student\u2019s needs when seminar offerings do not cover subjects, genres, or authors of interest. No paper required. The 297 courses do not count toward the seminar requirement. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subjects not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCO 299",
+    "title": "Dissertation",
+    "units": 1,
+    "description": "Research for the dissertation. Offered for repeated registration. Open only to PhD students who have advanced to candidacy.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 10",
+    "title": "Studies in Popular Culture",
+    "units": 4,
+    "description": "This course asks students to critically analyze popular culture texts in contemporary and/or historical contexts. Works under consideration may include (but are not limited to) music, performance, fashion, film, TV, streaming/social media, video games, fan art, and fan fiction.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 11",
+    "title": "Legends, Fantasy, Science Fictions",
+    "units": 4,
+    "description": "This lower-division course is an introduction to the study of legends, fantasy, and/or science fiction texts. Students will analyze how works in these genres emerge from and engage with a diverse range of historical and cultural contexts, and address humanistic concerns around meaning, ethics, and humanity. This course may also examine how these genres have changed over time and how they intersect with contemporary forms of media such as film, TV, and video games.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 12",
+    "title": "Comics and the Graphic Novel",
+    "units": 4,
+    "description": "This class explores the world of comics and graphic novels. Students will learn about visual storytelling techniques, analyze the representation of diverse characters, aesthetics, and themes, and evaluate the role of comics across a range of cultures and time periods.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 87",
+    "title": "First-year Student Seminar",
+    "units": 1,
+    "description": "The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.",
+    "prereq_raw": "none."
+  },
+  {
+    "code": "LTCS 100",
+    "title": "Theories and Methods in Cultural Studies",
+    "units": 4,
+    "description": "Reading in some of the major theoretical texts that have framed work in cultural studies, with particular emphasis on those drawn from critical theory, studies in colonialism, cultural anthropology, feminism, semiotics, gay/lesbian studies, historicism, and psychoanalytic theory.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 102",
+    "title": "Practicing Cultural Studies",
+    "units": 4,
+    "description": "Survey and application of methods central to cultural studies as a critical social practice, examining the relationship between cultural studies and social transformation. Students will study varieties of material culture, and experiment with techniques of reading, interpretation, and intervention.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 108",
+    "title": "Gender, Race, and Artificial Intelligence",
+    "units": 4,
+    "description": "This course explores the idea of artificial intelligence in both art and science, its relation to the quest to identify what makes us human, and the roles gender and race have played in both. Students may not receive credit for CGS 108 and LTCS 108.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 110",
+    "title": "Popular Culture",
+    "units": 4,
+    "description": "A reading of recent theory on popular culture and a study of particular texts dealing with popular cultural practices, both contemporary and noncontemporary, as sites of conflict and struggle. LTCS 110 and LTCS 110GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 111",
+    "title": "Special Topics in Popular Culture in Historical Context",
+    "units": 4,
+    "description": "Exploration of forms of popular culture in different historical and geographical contexts. Topics may include folklore, dime novels and other types of popular literature, racial performances, popular religions, theatrical melodrama, photojournalism, and early film. LTCS 111 and LTCS 111GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 119",
+    "title": "Asian American Film and Media",
+    "units": 4,
+    "description": "(Cross-listed with CGS 119.) The course explores the politics of pleasure in relation to the production, reception, and performance of Asian American identities in the mass media of film, video, and the internet. The course considers how the \u201cdeviant\u201d sexuality of Asian Americans (e.g., hypersexual women and emasculated men) does more than uniformly harm and subjugate Asian American subjects. The texts explored alternate between those produced by majoritarian culture and the interventions made by Asian American filmmakers. Students may receive credit for one of the following: LTCS 119, LTCS 119GS, CGS 119, or CGS 119GS.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 120",
+    "title": "Historical Perspectives on Culture",
+    "units": 4,
+    "description": "The course will explore the relation among cultural production, institutions, history, and ideology during selected historical periods. In considering different kinds of texts, relations of power and knowledge at different historical moments will be discussed. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 125",
+    "title": "Cultural Perspectives on Immigration and Citizenship",
+    "units": 4,
+    "description": "Introduction to the studies of cultural dimensions of immigration and citizenship. Examines the diverse cultural texts\u2014literature, law, film, music, the televisual images, etc.\u2014that both shape and are shaped by immigration and the idea of citizenship in different national and historical contexts.\u00a0May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 130",
+    "title": "Gender, Race/Ethnicity, Class, and Culture",
+    "units": 4,
+    "description": "The course will focus on the representation of gender, ethnicity, and class in cultural production in view of various contemporary theories of race, sex, and class. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 131",
+    "title": "Topics in Queer Cultures/Queer Subcultures",
+    "units": 4,
+    "description": "This course examines the intersection of sex, sexuality, and popular culture by looking at the history of popular representations of queer sexuality and their relation to political movements for gay and lesbian rights. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 132",
+    "title": "Special Topics in Social Identities and the Media",
+    "units": 4,
+    "description": "A study of media representation and various aspects of identity, such as gender, sexuality, race, ethnicity, social class, culture, and geopolitical location. Students will consider the various media of film, television, alternative video, advertising, music, and the internet. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 133",
+    "title": "Globalization and Culture",
+    "units": 4,
+    "description": "Studies of cultural dimensions of immigration and citizenship. This course examines the diverse cultural texts\u2014literature, law, film, music, the televisual images, etc., that both shape and are shaped by immigration and the idea of citizenship in different national and historical contexts.\u00a0May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 134",
+    "title": "Culture and Revolution",
+    "units": 4,
+    "description": "This course examines the cultural practices of revolutionary societies from the French Revolution to present time. It focuses on China, Cuba, Russia, and Iran and explores how various cultural practices are produced in the course of building revolutionary societies.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 141",
+    "title": "Special Topics in Race and Empire",
+    "units": 4,
+    "description": "The role of race and culture within the history of empires; may select a single empire for consideration, such as France, Britain, United States, or Japan, or choose to examine the role of race and culture in comparative histories of colonialism. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 150",
+    "title": "Topics in Cultural Studies",
+    "units": 4,
+    "description": "The course will examine one or more forms of cultural production or cultural practice from a variety of theoretical and historical perspectives. Topics may include contemporary debates on culture, genres of popular music/fiction/film, AIDS and culture, the history of sexuality, subcultural styles, etc. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 155",
+    "title": "Health, Illness, and Global Culture",
+    "units": 4,
+    "description": "A medical humanities course that examines compelling written and cinematic accounts of health issues confronting contemporary societies such as environmental pollution, contaminated food supply, recreational drug use, HIV/AIDS, cancer, chronic conditions (allergies, diabetes, obesity, arthritis), famine, natural disasters, and war. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 165",
+    "title": "Special Topics: The Politics of Food",
+    "units": 4,
+    "description": "This course will examine the representation and politics of food in literary and other cultural texts. Topics may include food and poverty, the fast food industry, controversies about seed, sustainable food production, myths about hunger, eating and epistemology, aesthetics, etc. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 170",
+    "title": "Visual Culture",
+    "units": 4,
+    "description": "The course will focus on visual practices and discourses in their intersection and overlap, from traditional media, print, and photography to film, video, TV, computers, medical scanners, and the internet.\u00a0May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 172",
+    "title": "Special Topics in Screening Race/Ethnicity, Gender and Sexuality",
+    "units": 4,
+    "description": "Exploring both Hollywood and international filmmaking, an exploration of screen representations with attention to race/ethnicity, gender, and sexuality in different historical and linguistic contexts. Historical periods may extend from silent, through wartime and cold war, to contemporary era of globalization. LTCS 172 and LTCS 172GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 173",
+    "title": "Topics in Violence and Visual Culture",
+    "units": 4,
+    "description": "This course focuses on the critical study of representations of violence, such as war, genocide, sexual violence, and crime, across a range of media, including literature, film, photography, and other forms of visual culture. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 180",
+    "title": "Programming for the Humanities",
+    "units": 4,
+    "description": "Introduction to a script programming language (like Python + NLTK or R) and its usages in the processing of literary and historical digital corpora.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group research, under the guidance of a member of the faculty, in an area not covered in courses currently offered by the department. May be taken for credit up to three times. (P/NP only.)",
+    "prereq_raw": "permission of the department."
+  },
+  {
+    "code": "LTCS 222",
+    "title": "Topics in Theory and History of Film",
+    "units": 4,
+    "description": "This course will consider various theoretical approaches to film texts (historical-materialist, feminist, psychoanalytic, semiotic) as well as the history of film, the political economy of film production and distribution, exhibition practices, and spectatorship in national and transnational contexts. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 225",
+    "title": "Interdisciplinary and Historical Analysis of Cultural Texts",
+    "units": 4,
+    "description": "The seminar will focus on a particular historical period and examine a variety of cultural texts vis-\u00e0-vis related historical, economic, political, and sociological discourses. The conjunction and disjunction of approaches will be explored in relation to specific texts. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 250",
+    "title": "Topics in Cultural Studies",
+    "units": 4,
+    "description": "This seminar will be organized around any of various topic areas relating to cultural studies. These might include studies in colonialism, historicism, gender, sexuality, social institutions, popular culture, subaltern practices, etc. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 256",
+    "title": "Cultural Studies of Technoscience",
+    "units": 4,
+    "description": "The course will explore work in cultural studies, feminist studies, and queer theory of scientific practices altering social relations, cultural identities, and conceptions of \u201cnature.\u201d Issues may include the AIDS pandemic, genetic research, electronic communities, reproductive technologies, and other topics. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 260",
+    "title": "National Cultures",
+    "units": 4,
+    "description": "Selected topics on the construction of national cultural identities. Investigation of the dynamics of canon formation and nation building in specific historical contexts. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 297",
+    "title": "Directed Studies: Reading Course",
+    "units": 1,
+    "description": "This course may be designed according to an individual student\u2019s needs when seminar offerings do not cover subjects, genres, or authors of interest. No paper required. The 297 courses do not count toward the seminar requirement. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subjects not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTCS 299",
+    "title": "Dissertation",
+    "units": 1,
+    "description": "Research toward the dissertation. Open only to PhD students who have advanced to candidacy. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 100A",
+    "title": "Classical Chinese Poetry in Translation",
+    "units": 4,
+    "description": "A survey of different genres of traditional Chinese poetry from various periods.\u00a0May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 100B",
+    "title": "Modern Chinese Poetry in Translation",
+    "units": 4,
+    "description": "A survey of Chinese poetry written in the vernacular from 1918 to 1949.\u00a0May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 100C",
+    "title": "Contemporary Chinese Poetry in Translation",
+    "units": 4,
+    "description": "A survey of Chinese poetic development from 1949 to the present.\u00a0May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 110A",
+    "title": "Classical Chinese Fiction in Translation",
+    "units": 4,
+    "description": "The course will focus on a few representative masterpieces of Chinese literature in its classical age, with emphasis on the formal conventions and the social or intellectual presuppositions that are indispensable to their understanding. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 110B",
+    "title": "Modern Chinese Fiction in Translation",
+    "units": 4,
+    "description": "A survey of representative works of the modern period from 1919 to 1949. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 110C",
+    "title": "Contemporary Chinese Fiction in Translation",
+    "units": 4,
+    "description": "An introductory survey of representative texts produced after 1949 with particular emphasis on the social, cultural, and political changes. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 120A",
+    "title": "Chinese Films",
+    "units": 4,
+    "description": "A survey of representative films from different periods of Chinese cinematic development. Priority may be given to Chinese studies majors and literature majors. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 120B",
+    "title": "Taiwan Films",
+    "units": 4,
+    "description": "A survey of \u201cNew Taiwan Cinema\u201d of the eighties and nineties. Priority may be given to Chinese studies majors and literature majors. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 120C",
+    "title": "Hong Kong Films",
+    "units": 4,
+    "description": "An examination of representative works of different film genres from Hong Kong. Priority may be given to Chinese studies majors and literature majors. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 132",
+    "title": "Later Japanese Literature in Translation",
+    "units": 4,
+    "description": "An introduction to later Japanese (kogo) literature in translation. Will focus on several \u201cmodern\u201d works, placing their forms in the historical context. No knowledge of Japanese required. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 138",
+    "title": "Japanese Films",
+    "units": 4,
+    "description": "An introduction to Japanese films. Attention given to representative Japanese directors (e.g., Ozu), form (e.g., anime), genre (e.g., feminist revenge horror), or historical context in which films are produced. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 140",
+    "title": "Modern Korean Literature in Translation from Colonial Period",
+    "units": 4,
+    "description": "A survey of modern Korean prose fiction and poetry from the colonial period. Exploration of major issues such as Japanese colonization, rise of left-wing and right-wing nationalisms, construction of national culture, and relations between tradition and modernity.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 141",
+    "title": "Modern Korean Literature in Translation from 1945 to Present",
+    "units": 4,
+    "description": "A survey of modern Korean prose fiction and poetry from 1945 to the 1990s. Examination of literary representations of national division, the Korean War, accelerated industrialization, authoritarian rule, and the labor/agrarian movements.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 142",
+    "title": "Korean Film, Literature, and Popular Culture",
+    "units": 4,
+    "description": "A study of modern Korean society and its major historical issues as represented in film, literature, and other popular cultural media such as TV and music video. We will explore additional issues such as cinematic adaptations of prose fiction, fluid distinctions between popular literature and \u201cserious\u201d literature, and the role of mass media under authoritarian rule.\u00a0May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 143",
+    "title": "Gender and Sexuality in Korean Literature and Culture",
+    "units": 4,
+    "description": "A study of constructions of gender and sexuality in premodern and modern Korean societies. We will discuss literary works as well as historical and ethnographic works on gender relations, representations of masculinity and femininity, and changing roles of men and women in work and family.\u00a0May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 144",
+    "title": "Korean American Literature and Other Literatures of Korean Diaspora",
+    "units": 4,
+    "description": "An examination of the experiences of the Korean diaspora linked to the historical contexts of modern Korea, Japan, the United States, and other countries. We will focus on literature both about Korea and the Korean immigrant experience written in the United States but will also read from and about other Korean diasporic contexts.\u00a0May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 145",
+    "title": "Topics in Korean Culture",
+    "units": 4,
+    "description": "This course focuses on a variety of topics on the Korean peninsula: the environment, politics of food, technology and science, disability studies, North Korea, the Korean War and the national division, social movements, and many more. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 151",
+    "title": "Readings in Tagalog Literature and Culture I",
+    "units": 4,
+    "description": "Course will concentrate on selections of literature, history, and cultural texts (painting, drama, religious artifacts) of the 1896 Philippine revolution and the succeeding US takeover of the Philippines. Intermediate fluency in speaking, reading, and writing Tagalog. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 152B",
+    "title": "Topics in Filipino Literature and Culture (World War II\u2013Present)",
+    "units": 4,
+    "description": "Surveys the authors, intellectual currents, and cultural politics of Filipino culture from World War II to the present. Topics may include the dual lingua franca, the birth of \u201cFilipino American\u201d literature, the culture of dictatorship, and new approaches to narrative. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEA 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Research seminars and research, under the direction of a faculty member. May be taken for credit up to three times. (P/NP grades only)",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 21",
+    "title": "Introduction to the Literature of the British Isles: Pre-1660",
+    "units": 4,
+    "description": "An introduction to the literatures written in English in Britain before 1660, with a focus on the interaction of text and history.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 22",
+    "title": "Introduction to the Literature of the British Isles: 1660\u20131832",
+    "units": 4,
+    "description": "An introduction to the literatures written in English in Britain and Ireland between 1660 and 1832, with a focus on the interaction of text and history.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 23",
+    "title": "Introduction to the Literature of the British Isles: 1832\u2013Present",
+    "units": 4,
+    "description": "An introduction to the literatures written in English in Britain, Ireland, and the British Empire (and the former British Empire) from 1832 to the present, with a focus on the interaction of text and history.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 25",
+    "title": "Introduction to the Literature of the United States, Beginnings to 1865",
+    "units": 4,
+    "description": "An introduction to the literatures written in English in the United States from the beginnings to 1865, with a focus on the interaction of text and history.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 26",
+    "title": "Introduction to the Literature of the United States, 1865 to the Present",
+    "units": 4,
+    "description": "An introduction to the literatures written in English in the United States from 1865 to the present, with a focus on the interaction of text and history.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 27",
+    "title": "Introduction to African American Literature",
+    "units": 4,
+    "description": "A lecture discussion course that examines a major topic or theme in African American literature as it is developed over time and across the literary genres of fiction, poetry, and belles lettres. A particular emphasis of the course is how African American writers have adhered to or departed from conventional definitions of genre.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 28",
+    "title": "Introduction to Asian American Literature",
+    "units": 4,
+    "description": "This course provides an introduction to the study of the history, communities, and cultures of different Asian American people in the United States. Students will examine different articulations, genres, conflicts, narrative forms, and characterizations of the varied Asian experience.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 29",
+    "title": "Introduction to Chicano Literature",
+    "units": 4,
+    "description": "This course provides an introduction to the literary production of the population of Mexican origin in the United States. Students will examine a variety of texts dealing with the historical (social, economic, and political) experiences of this heterogeneous population.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 30",
+    "title": "Poetry for Physicists",
+    "units": 4,
+    "description": "Physicists have spoken of the beauty of equations. The poet John Keats wrote, \u201cBeauty is truth, truth beauty . . .\u201d What did they mean? Students will consider such questions while reading relevant essays and poems. Requirements include one creative exercise or presentation. Students may not receive credit for both LTEN 30 and PHYS 30.",
+    "prereq_raw": "CAT 2 and 3 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B. Completion of college writing requirement."
+  },
+  {
+    "code": "LTEN 31",
+    "title": "Introduction to Indigenous Literature",
+    "units": 4,
+    "description": "This course provides an introduction to the study of the history, politics, and cultures of tribal nations in the United States and other indigenous peoples across the hemisphere and Oceania impacted by US colonial projects. Students will examine a variety of texts, genres, and periods dealing with the historical (social, economic, and political) experiences of indigenous peoples impacted by US colonization and expansion.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 87",
+    "title": "First-year Student Seminar",
+    "units": 1,
+    "description": "The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.",
+    "prereq_raw": "none."
+  },
+  {
+    "code": "LTEN 107",
+    "title": "Chaucer",
+    "units": 4,
+    "description": "A study of Chaucer\u2019s poetic development, beginning with  The Book of the Duchess  and  The Parliament of Fowls,  including  Troilus and Criseyde,  and concluding with substantial selections from  The Canterbury Tales.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 110",
+    "title": "Topics: The Renaissance",
+    "units": 4,
+    "description": "Major literary works of the Renaissance, an exciting period of social and cultural transformation in England as elsewhere in Europe. Topics may include a central theme (e.g., humanism, reformation, revolution), a genre (e.g., pastoral), or comparison with other arts and sciences. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 112",
+    "title": "Shakespeare I: The Elizabethan Period",
+    "units": 4,
+    "description": "A lecture/discussion course exploring the development of Shakespeare\u2019s dramatic powers in comedy, history, and tragedy, from the early plays to the middle of his career. Dramatic forms, themes, characters, and styles will be studied in the contexts of Shakespeare\u2019s theatre and his society.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 113",
+    "title": "Shakespeare II: The Jacobean Period",
+    "units": 4,
+    "description": "A lecture/discussion course exploring the rich and varied achievements of Shakespeare\u2019s later plays, including the major tragedies and late romances. Dramatic forms, themes, characters, and styles will be studied in the contexts of Shakespeare\u2019s theatre and his society.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 114",
+    "title": "Shakespeare III: Text, Stage, and Film",
+    "units": 4,
+    "description": "Close study of five Shakespeare plays. Form, theme, action, and language will be studies in the context of Shakespeare\u2019s theatre and society. We will view film and video versions of these plays, focusing on the critical implications of transposing plays to film.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 117",
+    "title": "Topics: The Seventeenth Century",
+    "units": 4,
+    "description": "Selected topics in English literature during a period of social change, religious controversy, emergence of the New Science, and the English Civil War. The course may be devoted to one or more major authors, a particular genre, or a political, social, or literary issue. Readings chosen from writers including Jonson, Donne, Bacon, Milton, Marvell, and Dryden, among others. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 120",
+    "title": "Topics: The Eighteenth Century",
+    "units": 4,
+    "description": "Selected topics in English literature and culture during the \u201clong eighteenth century,\u201d the period between 1660 and 1830. Topics might include satiric writing, the theatre world, radical/reformist discourse, and the emergence of the professional woman writer. Writers include Behn, Wycherley, Congreve, Pope, Swift, Johnson, Wollstonecraft. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 124",
+    "title": "Topics: The Nineteenth Century",
+    "units": 4,
+    "description": "Selected topics in nineteenth-century British literature and culture, drawing on the Romantic and/or Victorian periods (e.g., relationships between literature and imperialism, social and political debate, gender issues, religion, or science). The course could focus solely on topics within either the Romantic or Victorian periods or comprehend writing in both periods. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 125",
+    "title": "Romantic Poetry",
+    "units": 4,
+    "description": "Studies in Romantic poetry, covering the first generation (Blake, Wordsworth, Coleridge and their contemporaries) and/or the second generation (Shelley, Keats, Byron and their contemporaries) of Romantic poets. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 127",
+    "title": "Victorian Poetry",
+    "units": 4,
+    "description": "Studies in the poetry of the Victorian age including writers such as Tennyson, the Brownings, Arnold, Rosetti, Hopkins, and their contemporaries. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 128",
+    "title": "British and Irish Poetry: 1900 to Present",
+    "units": 4,
+    "description": "Selected topics in British and Irish poetry in the twentieth and twenty-first centuries. Topics may include modernism, movement poetry, the British poetry revival, and postcolonial and Black British poetry. LTEN 128 and LTEN 128GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 130",
+    "title": "Modern British Literature",
+    "units": 4,
+    "description": "Selected topics concerned with modern British literature; study of various authors, issues, and trends in literatures of the British Isles from the mid-1850s through the present day. LTEN 130 and LTEN 130GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 132",
+    "title": "Modern Irish Literature",
+    "units": 4,
+    "description": "The Irish Revival and its aftermath: Yeats, Synge, O\u2019Casey, Joyce, Beckett, and their contemporaries. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 138",
+    "title": "The British Novel: 1680\u20131790",
+    "units": 4,
+    "description": "Studies in the early period of the development of the English novel. Writers may include Behn, Defoe, Richardson, and Burney. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 140",
+    "title": "The British Novel: 1790\u20131830",
+    "units": 4,
+    "description": "Studies in the early nineteenth-century novel, such as the novels of Austen, Wollstonecraft and/or Shelly, the Gothic novel, radical fiction of the 1790s. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 142",
+    "title": "The British Novel: 1830\u20131890",
+    "units": 4,
+    "description": "Covers the early and midperiod Victorian novel, including such novelists as Dickens, the Brontes, Thackery, Eliot and their contemporaries. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 144",
+    "title": "The British Novel: 1890 to Present",
+    "units": 4,
+    "description": "Selected topics in the British novel from the late Victorian novel to present-day Black British fiction. Topics include colonial and postcolonial writing, modernism, and post-WWII fiction. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 148",
+    "title": "Genres in English and American Literature",
+    "units": 4,
+    "description": "An examination of one or more genres in English and/or American literature, for example, satire, science fiction, autobiography, comic drama. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 149",
+    "title": "Topics: English-Language Literature",
+    "units": 4,
+    "description": "A consideration of one of the themes that recur in many periods and cultural contexts of English-language literatures for instance, love, politics, identity, gender, race, class, or religion. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 150",
+    "title": "Gender, Text, and Culture",
+    "units": 4,
+    "description": "This course studies representations of the sexes and of their interrelationship in various forms of English-language writing produced during different phases of English history. Emphasis will be placed upon connections of gender and of literature to other modes of social belief, experience, and practice. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 152",
+    "title": "The Origins of American Literature",
+    "units": 4,
+    "description": "Studies in American written and oral literatures from the early colonial to the early national period (1620\u20131830), with emphasis on the thrust and continuity of American culture, social and intellectual, through the beginnings of major American writing in the first quarter of the nineteenth century. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 153",
+    "title": "The Revolutionary War and the Early National Period in US Literature",
+    "units": 4,
+    "description": "A critical examination of new texts of various kinds\u2014written and oral, political, philosophical, and literary\u2014functioned in the construction of the political body of the new American republic and the self-conception of its citizens. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 154",
+    "title": "The American Renaissance",
+    "units": 4,
+    "description": "A study of some of the chief works, and the linguistic, philosophical, and historical attitudes informing them, produced by such authors as Emerson, Hawthorne, Melville, Dickinson, and Whitman during the period 1836\u20131865, when the role of American writing in the national culture becomes an overriding concern. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 155",
+    "title": "Interactions between American Literature and the Visual Arts",
+    "units": 4,
+    "description": "An exploration of the connections between the work of individual writers, or movements, and the work of artists in various visual media. The writers studied are always American; the artists or art movements may represent non-American influences on these American writers. Topics could include portraiture and self-portraiture in visual arts and literature, or nature writing and landscape painting. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 156",
+    "title": "American Literature from the Civil War to World War I",
+    "units": 4,
+    "description": "A critical examination of works by such authors as Mark Twain, Henry James, Kate Chopin, and Edith Wharton, who were writing in an age when the frontier was conquered and American society began to experience massive industrialization and urbanization. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 157",
+    "title": "Captivity and Prison Narratives",
+    "units": 4,
+    "description": "A comparative study of narratives of experiences of incarceration, whether through acts of war, commerce, education, crime, or state-sponsored states of exception. Emphasis given to intercultural encounters, identity formation within these encounters, and state uses of and justifications for incarceration. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 158",
+    "title": "Modern American Literature",
+    "units": 4,
+    "description": "A critical examination of American literature in several genres and other facets of US culture produced between the turn of the century and World War II. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 159",
+    "title": "Contemporary American Literature",
+    "units": 4,
+    "description": "A critical examination of American literature in several genres and other facets of US culture produced since World War II. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 169",
+    "title": "Topics in Latino/a Literature",
+    "units": 4,
+    "description": "The course will focus on selected topics in nineteenth-, twentieth-, and twenty-first-century Latino/a literature and culture in the United States from a sociohistorical perspective. Topics may include issues of gender, sexuality, race, ethnicity, class, social struggle, and political resistance. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 171",
+    "title": "Comparative Issues in Latino/a Immigration in US Literature",
+    "units": 4,
+    "description": "A critical examination of the configuration of Latino/a immigration in US literary and visual culture. The course will focus on Latino immigrant groups, analyzing their relocation in the United States from a theoretical, historical, and social perspective. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 172",
+    "title": "American Poetry II\u2014Whitman through the Modernists",
+    "units": 4,
+    "description": "Reading and interpretation of American poets from Whitman through the principal modernists\u2014Pound, H.D., Eliot, Moore, Stevens, and others. Lectures will set the appropriate context in sociocultural and literary history.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 174",
+    "title": "American Fiction II\u2014Since Middle James",
+    "units": 4,
+    "description": "Reading and interpretation of American fiction from Henry James through the principal modernists\u2014Fitzgerald, Stein, Welty, Faulkner, and others. Lectures will set the appropriate context.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 175A",
+    "title": "New American Fiction\u2014Post-World War II to the Present",
+    "units": 4,
+    "description": "Reading and interpretation of American fiction from the mid-1940s to the present. Lectures will set the appropriate context in sociocultural and literary history. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 175B",
+    "title": "New American Poetry\u2014Post-World War II to the Present",
+    "units": 4,
+    "description": "Reading and interpretation of American poets whose work has made its major impact since the last war, for instance Charles Olson, Robert Creeley, Denise Levertov, Adrienne Rich, Allen Ginsberg, Frank O\u2019Hara, and John Ashbery. Lectures will set the appropriate context in sociocultural and literary history. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 176",
+    "title": "Major American Writers",
+    "units": 4,
+    "description": "A study in depth of the works of major American writers. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 178",
+    "title": "Comparative Ethnic Literature",
+    "units": 4,
+    "description": "A lecture-discussion course that juxtaposes the experience of two or more US ethnic groups and examines their relationship with the dominant culture. Students will analyze a variety of texts representing the history of ethnicity in this country. Topics will vary.\u00a0May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 179",
+    "title": "Topics: Arab/Muslim American Identity and Culture",
+    "units": 4,
+    "description": "This class explores (self) representations of Muslim and Arab Americans in US popular culture with a focus on the twentieth and twenty-first centuries. Topics include the racing of religion, \u201cthe war on terror\u201d in the media, feminism and Islam, immigration, race, and citizenship. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 180",
+    "title": "Chicano Literature in English",
+    "units": 4,
+    "description": "Introduction to the literature in English by the Chicano population, the men and women of Mexican descent who live and write in the United States. Primary focus on the contemporary period.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 181",
+    "title": "Asian American Literature",
+    "units": 4,
+    "description": "Selected topics in the literature by men and women of Asian descent who live and write in the United States. LTEN 181 and ETHN 124 may be taken for credit for a combined total of two times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 182",
+    "title": "Diaspora, Race, and Iranian American Literature",
+    "units": 4,
+    "description": "Examines the Iranian American literary and visual cultures, focusing on intersections of class, gender, and race in the context of diaspora everyday life. Renumbered from LTAM 120.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 183",
+    "title": "African American Prose",
+    "units": 4,
+    "description": "Analysis and discussion of the novel, the personal narrative, and other prose genres, with particular emphasis on the developing characteristics of African American narrative and the cultural and social circumstances that influence their development.\u00a0May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 185",
+    "title": "Themes in African American Literature",
+    "units": 4,
+    "description": "An intensive examination of a characteristic theme, special issue, or period in African American literature. May be taken for credit up to three times. Students may receive a combined total of twelve units for LTEN 185, LTEN 185GS, and ETHN 174.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 186",
+    "title": "Literature of the Harlem Renaissance",
+    "units": 4,
+    "description": "The Harlem Renaissance (1917\u201339) focuses on the emergence of the \u201cNew Negro\u201d and the impact of this concept on black literature, art, and music. Writers studied include Claude McKay, Zora N. Hurston, and Langston Hughes. Special emphasis on new themes and forms.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 188",
+    "title": "Contemporary Caribbean Literature",
+    "units": 4,
+    "description": "This course will focus on contemporary literature of the English-speaking Caribbean. The parallels and contrasts of this Third World literature with those of the Spanish- and French-speaking Caribbean will also be explored.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 189",
+    "title": "Twentieth-Century Postcolonial Literatures",
+    "units": 4,
+    "description": "The impact of British colonialism, national independence movements, postcolonial cultural trends, and women\u2019s movements on the global production of literary texts in English. Course is organized by topic or geographical/historical location. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 192",
+    "title": "Senior Seminar in Literatures in English",
+    "units": 1,
+    "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in literature (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors.",
+    "prereq_raw": "department stamp and/or consent of instructor."
+  },
+  {
+    "code": "LTEN 196",
+    "title": "Honors Thesis",
+    "units": 4,
+    "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program and who have completed LTWL 191. Oral exam.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTEN 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Research seminars and research, under the direction of a member of the staff. May be taken for credit up to nine times. (P/NP grades only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTEN 222",
+    "title": "Elizabethan Studies",
+    "units": 4,
+    "description": "Selected topics in the study of literary, dramatic, and other Elizabethan cultural texts. Emphasis will be upon articulations among a range of discourses, practices, and institutions. May be taken up to two times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 231",
+    "title": "Restoration and Eighteenth-Century English Literature",
+    "units": 4,
+    "description": "Consideration of one or more figures, texts, or trends in Restoration and eighteenth-century English literature, including Dryden, Pope, Swift, the early novel, satire. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 245",
+    "title": "Nineteenth-Century American Studies",
+    "units": 4,
+    "description": "Consideration of some of the principal writers and movements in nineteenth-century American literature. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 246",
+    "title": "Victorian Literature",
+    "units": 4,
+    "description": "Consideration of one or more major figures, texts, or trends in the Victorian period. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 252",
+    "title": "Studies in Modern American Literature and Culture",
+    "units": 4,
+    "description": "Consideration of one or more major figures, texts, or trends in American literature, in particular the relationship between literature and culture. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 254",
+    "title": "Topics in US Minority Literatures and Cultures",
+    "units": 4,
+    "description": "Consideration of one or more topics in \u201cminority\u201d traditions of cultural production in the United States, with an emphasis on the relationship among history, politics, and culture. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 256",
+    "title": "Postcolonial Discourses",
+    "units": 4,
+    "description": "A survey of selected responses to imperialism and colonialism as presented in cultural texts produced by colonized or once-colonized peoples. Related issues to be examined: gender dynamics, class, representing others, mimicry, language, cultural theory, and the politics of literary genres. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 258",
+    "title": "Studies in Anglophone African and/or African Diaspora Literature and Culture",
+    "units": 4,
+    "description": "Consideration of one or more major figures, texts, performance, or trends in literature and culture of Africa and/or the African Diaspora. Various theories and methodologies may be applied to the representations being studied. May be taken three times for credit as topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 259",
+    "title": "Transnational Literary Studies",
+    "units": 4,
+    "description": "New developments in the study of literature in diverse frameworks, including but not limited to globalization, queer theory, diaspora studies, environmentalism, world literary systems, international literary awards, transnational feminism, literary markets, human rights discourse, and translation studies. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 271",
+    "title": "Genres in English",
+    "units": 4,
+    "description": "Consideration of one or more genres present in English and/or American literature; for instance, the ballad, landscape poetry, comedy, satire, the familiar essay. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 272",
+    "title": "Cultural Traditions in English",
+    "units": 4,
+    "description": "The study of writing produced over an extended period of time by members of an identifiable cultural formation as defined (e.g., by political/social ideology, class, religion, ethnicity, or sexual preference). May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 281",
+    "title": "Practicum in Literary Research and Criticism",
+    "units": 4,
+    "description": "This course will focus on strategies for framing, organizing, and drafting projects in literary research. Students will study and apply various forms of literary methodology and will learn about recent developments in bibliography, textual editing, and research. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 297",
+    "title": "Directed Studies: Reading Course",
+    "units": 1,
+    "description": "This course may be designed according to an individual student\u2019s needs when seminar offerings do not cover subjects, genres, or authors of interest. No paper required. The 297 courses do not count toward the seminar requirement. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subject not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEN 299",
+    "title": "Dissertation",
+    "units": 1,
+    "description": "Research for the dissertation. Offered for repeated registration. Open only to PhD students who have advanced to candidacy.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 87",
+    "title": "First-year Student Seminar",
+    "units": 1,
+    "description": "The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 100",
+    "title": "Introduction to Italian Literature",
+    "units": 4,
+    "description": "Introduction to representative Italian authors from Dante through the twenty-first century. May be taken up to three times for credit as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 104",
+    "title": "Medieval Studies",
+    "units": 4,
+    "description": "Studies in the culture and thought of medieval Europe through a literary lens. May be taken for credit up to three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 109",
+    "title": "Studies in Eighteenth-Century European Literature",
+    "units": 4,
+    "description": "Topics to be considered include the age of sensibility, enlightenment, neoclassicism. Attention given to historical and cultural contexts.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 110",
+    "title": "European Romanticism",
+    "units": 4,
+    "description": "Attention given to historical and cultural contexts. Topics to be considered include the concept of nature, the reaction to science, the role of the imagination.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 111",
+    "title": "European Realism",
+    "units": 4,
+    "description": "This course focuses on nineteenth-century European realism in historical and cultural context. Topics include definitions of realism, the impact of urbanization and industrialization on literary forms and themes, and relations between realism in literature and the visual arts. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 130",
+    "title": "German Literature in Translation",
+    "units": 4,
+    "description": "One or more aspects of German literature, such as major authors, the contemporary novel, nineteenth-century poetry, German expressionism. Texts may be read in English or the original language. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 137",
+    "title": "Seminars in German Culture",
+    "units": 4,
+    "description": "These seminars are devoted to a variety of special topics, including the works of single authors, genre studies, problems in literary history, relations between literature and the history of ideas, literary criticism, literature and society, and the like. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 140",
+    "title": "Italian Literature in Translation",
+    "units": 4,
+    "description": "One or more periods and authors in Italian literature. Texts will be read in English. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 141",
+    "title": "French Literature in English Translation",
+    "units": 4,
+    "description": "Study of works of French literature of any period in English translation. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 146",
+    "title": "Studies in Modern Italian Prose",
+    "units": 4,
+    "description": "A study of the chief modern Italian  prosatori,  including D\u2019Annunzio, Calvino, Pavese, and Pasolini. May be taken for credit up to three times. Students may receive a combined total of twelve units for LTEU 146 and LTIT 137.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 150A",
+    "title": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860",
+    "units": 4,
+    "description": "A study of literary works from 1800\u20131860. Students may not receive credit for both LTEU 150A and LTRU 110A.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 150B",
+    "title": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917",
+    "units": 4,
+    "description": "A study of literary works from 1860\u20131917. Students may not receive credit for both LTEU 150B and LTRU 110B.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 150C",
+    "title": "Survey of Russian and Soviet Literature in Translation, 1917\u2013Present",
+    "units": 4,
+    "description": "A study of literary works from 1917 to the present. Students may not receive credit for both LTEU 150C and LTRU 110C.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 154",
+    "title": "Russian Culture",
+    "units": 4,
+    "description": "An introduction to Russia\u2019s past and present through the cross-disciplinary study of literature, the visual and performing arts, social and political thought, civic rituals, popular entertainments, values and practices from 1825 to the present. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTEU 158",
+    "title": "Single Author in Russian Literature in Translation",
+    "units": 4,
+    "description": "A study of literary works by a single Russian author. All readings will be in English. LTEU 158 and LTRU 123 may be taken for credit for a combined total of three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTFR 2A",
+    "title": "Intermediate French I",
+    "units": 5,
+    "description": "First course in a three-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. Basic techniques of literary analysis.",
+    "prereq_raw": "LIFR 1C/CX or its equivalent, score of 3 on French language AP exam or consent of instructor."
+  },
+  {
+    "code": "LTFR 2B",
+    "title": "Intermediate French II",
+    "units": 5,
+    "description": "Second course in a three-quarter sequence designed to prepare students for upper-division French courses. The course is taught entirely in French and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. Basic techniques of literary analysis.",
+    "prereq_raw": "LTFR 2A or its equivalent, score of 4 on French language or score of 3 on French literature AP exams or consent of instructor."
+  },
+  {
+    "code": "LTFR 2C",
+    "title": "Intermediate French III: Composition and Cultural Contexts",
+    "units": 4,
+    "description": "Designed to improve writing and conversational skills. Develop written expression in terms of organization or ideas, structure, vocabulary. Grammar review. Discussions of contemporary novel and film.",
+    "prereq_raw": "LTFR 2B or its equivalent, score of 5 on French language or score of 4 on French literature AP exams or consent of instructor."
+  },
+  {
+    "code": "LTFR 104",
+    "title": "Advanced French Reading and Writing",
+    "units": 4,
+    "description": "This course will help students transition from lower-division French language courses to upper-division literature courses through close work with original texts to develop comprehension, writing, and analytical skills.\u00a0May be taken for credit up to three times.",
+    "prereq_raw": "LTFR 2C or consent of instructor."
+  },
+  {
+    "code": "LTFR 115",
+    "title": "Themes in Intellectual and Literary History",
+    "units": 4,
+    "description": "Course in a two-quarter sequence designed as an introduction to French literature and literary history. Each quarter will center on a specific theme or problem. It is recommended that majors whose primary literature is French take this sequence as early as possible. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 116",
+    "title": "Themes in Intellectual and Literary History",
+    "units": 4,
+    "description": "Course in a two-quarter sequence designed as an introduction to French literature and literary history. Each quarter will center on a specific theme or problem. It is recommended that majors whose primary literature is French take this sequence as early as possible. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 121",
+    "title": "The Middle Ages and the Renaissance",
+    "units": 4,
+    "description": "Major literary works of the Middle Ages and Renaissance as seen against the historical and intellectual background of the period. Medieval texts in modern French translation. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 122",
+    "title": "Topics in Seventeenth-Century French Literature",
+    "units": 4,
+    "description": "This course will cover major literary works and problems of seventeenth-century French literature. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 123",
+    "title": "Eighteenth Century",
+    "units": 4,
+    "description": "Major literary works and problems of the eighteenth century. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 124",
+    "title": "Nineteenth Century",
+    "units": 4,
+    "description": "Major literary works of the nineteenth century. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 125",
+    "title": "Twentieth Century",
+    "units": 4,
+    "description": "Major literary works and problems of the twentieth century. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 141",
+    "title": "Topics in Literatures in French",
+    "units": 4,
+    "description": "Examines one or more periods, themes, authors, and approaches in French literature. Topics will vary with instructor. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 142",
+    "title": "Topics in Literary Genres in French",
+    "units": 4,
+    "description": "An examination of one or more major or minor genres of French literature: for example, drama, novel, poetry, satire, prose poem, essay. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 143",
+    "title": "Topics in Major Authors in French",
+    "units": 4,
+    "description": "A study in depth of the works of a major French writer. Recommended for students whose primary literature is French. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 164",
+    "title": "Topics in Modern French Culture",
+    "units": 4,
+    "description": "A course on changing topics such as France during the 1960s, contemporary social and cultural structures (the school system, economy, political parties), myths of America in France, etc. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTFR 104."
+  },
+  {
+    "code": "LTFR 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Research seminars and research, under the direction of a member of the staff. May be taken for credit up to nine times. (P/NP grades only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTFR 297",
+    "title": "Directed Studies: Reading Course",
+    "units": 1,
+    "description": "This course may be designed according to an individual student\u2019s needs when seminar offerings do not cover subjects, genres, or authors of interest. No paper required. The 297 courses do not count toward the seminar requirement. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTFR 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subjects not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTFR 299",
+    "title": "Dissertation",
+    "units": 1,
+    "description": "Research for the dissertation. Offered for repeated registration. Open only to PhD students who have advanced to candidacy.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 2A",
+    "title": "Intermediate German I",
+    "units": 5,
+    "description": "LTGM 2A follows the basic language sequence of the Department of Linguistics and emphasizes the development of reading ability, listening comprehension, and conversational and writing skills. The course includes grammar review and class discussion of reading and audiovisual materials. Specifically, the course prepares students for LIGM 2B and 2C.",
+    "prereq_raw": "LTGM 1C/1CX or its equivalent or score of 3 on AP German language exam or consent of instructor."
+  },
+  {
+    "code": "LTGM 2B",
+    "title": "Intermediate German II",
+    "units": 5,
+    "description": "LTGM 2B is a continuation of LTGM 2A for those students who intend to practice their skills in reading, listening comprehension, and writing on a more advanced level. The literary texts are supplemented by readings from other disciplines as well as audiovisual materials.",
+    "prereq_raw": "LTGM 2A or score of 4 on AP German language exam or consent of instructor."
+  },
+  {
+    "code": "LTGM 2C",
+    "title": "Intermediate German III",
+    "units": 4,
+    "description": "A course designed for students who wish to improve their ability to speak and write German. Students will read and discuss a variety of texts and films, and complete the grammar review begun in 2A. 2C emphasizes speaking, writing, and critical thinking, and prepares students for upper-division course work in German.",
+    "prereq_raw": "LTGM 2B or equivalent or score of 5 on AP German language exam or consent of instructor."
+  },
+  {
+    "code": "LTGM 100",
+    "title": "German Studies I: Aesthetic Cultures",
+    "units": 4,
+    "description": "This course offers an overview of German aesthetic culture in its various forms (literature, film, art, music, and architecture) and methods of analysis. Materials will explore the diversity of aesthetic production from the eighteenth century to the present.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 101",
+    "title": "German Studies II: National Identities",
+    "units": 4,
+    "description": "This course offers an overview of issues in contemporary and historical German cultures. How has national identity been constructed in the past? What does it mean to be a German in the new Europe? Materials include fiction, historical documents, films, and the internet.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 130",
+    "title": "German Literary Prose",
+    "units": 4,
+    "description": "The development of major forms and modes of German literary prose. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 132",
+    "title": "German Poetry",
+    "units": 4,
+    "description": "The development of major forms and modes of German verse. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 134",
+    "title": "New German Cinema",
+    "units": 4,
+    "description": "A survey of German cinema from the late 1960s to the early 1980s. Focus on films by such directors as Fassbinder, Herzog, Kluge, Schl\u04e7ndorff, von Trotta, and Wenders viewed in historical and cultural context. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 190",
+    "title": "Seminars in German Culture",
+    "units": 4,
+    "description": "These seminars are devoted to a variety of special topics, including the works of single authors, genre studies, problems in literary history, relations between literature and the history of ideas, literary criticism, literature and society, and the like. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Research seminars and research, under the direction of a member of the staff. May be taken for credit up to nine times. (P/NP grades only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTGM 297",
+    "title": "Directed Studies: Reading Course",
+    "units": 1,
+    "description": "This course may be designed according to an individual student\u2019s needs when seminar offerings do not cover subjects, genres, or authors of interest. No paper required. The 297 courses do not count toward the seminar requirement. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGM 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subjects not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGK 1",
+    "title": "Beginning Greek",
+    "units": 4,
+    "description": "Study of ancient Greek, including grammar and reading.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGK 2",
+    "title": "Intermediate Greek (I)",
+    "units": 4,
+    "description": "Continuation of study of ancient Greek, including grammar and reading.",
+    "prereq_raw": "LTGK 1 or equivalent."
+  },
+  {
+    "code": "LTGK 3",
+    "title": "Intermediate Greek (II)",
+    "units": 4,
+    "description": "Continuation of study of ancient Greek, including grammar and reading of texts.",
+    "prereq_raw": "LTGK 1 and 2 or equivalent."
+  },
+  {
+    "code": "LTGK 101",
+    "title": "Greek Composition",
+    "units": 4,
+    "description": "Greek prose composition.      Corequisites:      student must be concurrently enrolled in upper-division Literature/Greek course numbered 102 or above.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTGK 102",
+    "title": "Greek Poetry",
+    "units": 4,
+    "description": "Readings in Greek from ancient Greek poetry. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTGK 1, 2, and 3."
+  },
+  {
+    "code": "LTGK 103",
+    "title": "Greek Drama",
+    "units": 4,
+    "description": "Readings in Greek from ancient Greek drama. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTGK 1, 2, and 3."
+  },
+  {
+    "code": "LTGK 104",
+    "title": "Greek Prose",
+    "units": 4,
+    "description": "Readings in Greek from ancient Greek prose. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTGK 1, 2, and 3."
+  },
+  {
+    "code": "LTGK 105",
+    "title": "Topics in Greek Literature",
+    "units": 4,
+    "description": "Readings in Greek covering specific topics in ancient Greek literature. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTGK 1, 2, and 3."
+  },
+  {
+    "code": "LTGK 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group study in areas of Greek literature not normally covered in courses. May be taken for credit up to four times as topics vary. (P/NP grades only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTIT 2A",
+    "title": "Intermediate Italian I",
+    "units": 5,
+    "description": "A second-year course in Italian language and literature. Conversation, composition, grammar review, and an introduction to literary and nonliterary texts.",
+    "prereq_raw": "LTIT 1C or LIIT 1C/1CX or its equivalent or a score of 3 on AP Italian Language and Culture Exam or placement result of 3 or 4 on the Language Placement Exam\u2013Italian or consent of instructor."
+  },
+  {
+    "code": "LTIT 2B",
+    "title": "Intermediate Italian II",
+    "units": 5,
+    "description": "Continuation of second-year Italian language and literature. Reading, writing, conversation, grammar review, and an introduction to literary genres and contemporary Italian culture and society.",
+    "prereq_raw": "LTIT 2A or its equivalent, or consent of instructor, or a score of 4 on the AP Italian Language and Culture exam."
+  },
+  {
+    "code": "LTIT 50",
+    "title": "Advanced Italian",
+    "units": 4,
+    "description": "This course constitutes the sixth and final quarter of the Italian language sequence. It offers an intensive study of Italian grammar, drills in conversation and composition, and readings in modern Italian literature.",
+    "prereq_raw": "LTIT 2A and 2B, or consent of instructor."
+  },
+  {
+    "code": "LTIT 100",
+    "title": "Introduction to Literatures in Italian",
+    "units": 4,
+    "description": "Reading and discussion of selections from representative authors. Review of grammar as needed. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTIT 50 or its equivalent, or consent of instructor, or a score of 5 on the AP Italian Language and Culture exam."
+  },
+  {
+    "code": "LTIT 122",
+    "title": "Studies in Modern Italian Culture",
+    "units": 4,
+    "description": "Politics, literature, and cultural issues of twentieth-century Italy. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTIT 50."
+  },
+  {
+    "code": "LTIT 137",
+    "title": "Studies in Modern Italian Prose",
+    "units": 4,
+    "description": "A study of the chief modern Italian  prosatori,  including D\u2019Annunzio, Calvino, Pavese, and Pasolini. May be taken for credit up to three times. Students may receive a combined total of twelve units for LTIT 137 and LTEU 146.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTIT 161",
+    "title": "Advanced Stylistics and Conversation",
+    "units": 4,
+    "description": "Analysis of Italian essays, journalism, literature. Intensive practice in writing and Italian conversation. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTIT 100 or consent of instructor."
+  },
+  {
+    "code": "LTIT 192",
+    "title": "Senior Seminar in Literatures in Italian",
+    "units": 1,
+    "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in literature (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors.",
+    "prereq_raw": "department stamp and/or consent of instructor."
+  },
+  {
+    "code": "LTIT 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group study in areas of Italian literature not normally covered in courses. May be taken for credit up to four times as topics vary. (P/NP grades only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTKO 1A",
+    "title": "Beginning Korean: First Year I",
+    "units": 5,
+    "description": "Students develop beginning-level skills in the Korean language, beginning with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTKO 1B",
+    "title": "Beginning Korean: First Year II",
+    "units": 5,
+    "description": "Students develop beginning-level skills in the Korean language, with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions.",
+    "prereq_raw": "LTKO 1A or placement test and consent of instructor."
+  },
+  {
+    "code": "LTKO 1C",
+    "title": "Beginning Korean: First Year III",
+    "units": 5,
+    "description": "Students develop beginning-level skills in the Korean language, beginning with an introduction to the writing and sound system. The remainder of the course will focus on basic sentence structures and expressions.",
+    "prereq_raw": "LTKO 1B or placement test and consent of instructor."
+  },
+  {
+    "code": "LTKO 2A",
+    "title": "Intermediate Korean: Second Year I",
+    "units": 5,
+    "description": "This course will help students develop intermediate-level skills in the Korean language. Upon completion of this course, students are expected to have good command of Korean in various daily conversational situations.",
+    "prereq_raw": "LTKO 1C or placement test and consent of instructor."
+  },
+  {
+    "code": "LTKO 2B",
+    "title": "Intermediate Korean: Second Year II",
+    "units": 5,
+    "description": "This course will help students develop intermediate-level skills in the Korean language. Upon completion of this course, students are expected to have a good command of Korean in various daily conversational situations.",
+    "prereq_raw": "LTKO 2A or placement test and consent of instructor."
+  },
+  {
+    "code": "LTKO 2C",
+    "title": "Intermediate Korean: Second Year III",
+    "units": 5,
+    "description": "This course will help students develop intermediate-level skills in the Korean language. Upon completion of this course, students are expected to have good command of Korean in various daily conversational situations.",
+    "prereq_raw": "LTKO 2B or placement test and consent of instructor."
+  },
+  {
+    "code": "LTKO 130F",
+    "title": "Advanced Korean: Third Year I",
+    "units": 4,
+    "description": "Students will learn advanced level skills in listening, speaking, reading, and writing Korean, and expand their understanding of Korean culture. Topics: living in Korea, popular Korean food, dating culture in Korea, tour sites and regional products, Hallyu\u2014Korean Wave. Students may receive a combined total of twelve units for LTKO 130, LTKO 130F, LTKO 130W, and LTKO 130P.",
+    "prereq_raw": "LTKO 2C or equivalent level of proficiency with consent of instructor."
+  },
+  {
+    "code": "LTKO 130W",
+    "title": "Advanced Korean: Third Year II",
+    "units": 4,
+    "description": "Students will learn advanced level skills in listening, speaking, reading, and writing Korean, and expand their understanding of Korean culture. Topics: address terms and interpersonal relations, famous Korean people, Seoul\u2014capital city of Korea, South Korea and North Korea, housing in Korea. Students may receive a combined total of twelve units for LTKO 130, LTKO 130F, LTKO 130W, and LTKO 130P.",
+    "prereq_raw": "LTKO 2C or equivalent level of proficiency with consent of instructor."
+  },
+  {
+    "code": "LTKO 130P",
+    "title": "Advanced Korean: Third Year III",
+    "units": 4,
+    "description": "Students will learn advanced level skills in listening, speaking, reading, and writing Korean, and expand their understanding of Korean culture. Topics: customs and superstitions, Korean folktales and proverbs, Korean culture of community, Korea during the Japanese colonial period, Korea and Korean. Students may receive a combined total of twelve units for LTKO 130, LTKO 130F, LTKO 130W, and LTKO 130P.",
+    "prereq_raw": "LTKO 2C or equivalent level of proficiency with consent of instructor."
+  },
+  {
+    "code": "LTKO 135",
+    "title": "Readings in Sino-Korean Characters",
+    "units": 4,
+    "description": "Students in this course will learn advanced and superior level Sino-Korean vocabulary and characters, skills in reading and understanding advanced and superior level Korean reading materials, and expand their understanding of Korean culture. Upon completion of this course, students are expected to have acquired an expanded vocabulary, knowledge of various expressions using Sino-Korean vocabulary and characters.",
+    "prereq_raw": "LTKO 2C or equivalent level of proficiency with consent of instructor."
+  },
+  {
+    "code": "LTKO 140",
+    "title": "Readings in Korean Literature",
+    "units": 4,
+    "description": "Readings in Korean literature and culture from colonial period to present. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTKO 130F or LTKO 130W or LTKO 130F or equivalent proficiency with consent of instructor."
+  },
+  {
+    "code": "LTLA 1",
+    "title": "Beginning Latin",
+    "units": 4,
+    "description": "Study of Latin, including grammar and reading.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTLA 2",
+    "title": "Intermediate Latin (I)",
+    "units": 4,
+    "description": "Study of Latin, including grammar and reading.",
+    "prereq_raw": "LTLA 1 or equivalent."
+  },
+  {
+    "code": "LTLA 3",
+    "title": "Intermediate Latin (II)",
+    "units": 4,
+    "description": "Study of Latin, including grammar and reading.",
+    "prereq_raw": "LTLA 2 or equivalent."
+  },
+  {
+    "code": "LTLA 100",
+    "title": "Introduction to Latin Literature",
+    "units": 4,
+    "description": "Reading and discussion of selections from representative authors of one or more periods. Review of grammar as needed. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTLA 3 or equivalent."
+  },
+  {
+    "code": "LTLA 102",
+    "title": "Latin Poetry",
+    "units": 4,
+    "description": "Readings in Latin from Latin poetry. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTLA 1, 2, and 3."
+  },
+  {
+    "code": "LTLA 103",
+    "title": "Latin Drama",
+    "units": 4,
+    "description": "Readings in Latin from Latin drama. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTLA 1, 2, and 3."
+  },
+  {
+    "code": "LTLA 104",
+    "title": "Latin Prose",
+    "units": 4,
+    "description": "Readings in Latin from Latin prose. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTLA 1, 2, and 3."
+  },
+  {
+    "code": "LTLA 105",
+    "title": "Topics in Latin Literature",
+    "units": 4,
+    "description": "Readings in Latin covering specific topics in Latin literature. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTLA 1, 2, and 3."
+  },
+  {
+    "code": "LTLA 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group study in areas of Latin literature not normally covered in courses. May be taken for credit up to four times as topics vary. (P/NP grades only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTRU 1A",
+    "title": "First-Year Russian",
+    "units": 5,
+    "description": "First-year Russian, with attention to reading, writing, and speaking.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTRU 1B",
+    "title": "First-Year Russian",
+    "units": 5,
+    "description": "First-year Russian, with attention to reading, writing, and speaking.",
+    "prereq_raw": "LTRU 1A or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 1C",
+    "title": "First-Year Russian",
+    "units": 5,
+    "description": "First-year Russian, with attention to reading, writing, and speaking.",
+    "prereq_raw": "LTRU 1B or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 2A",
+    "title": "Second-Year Russian",
+    "units": 5,
+    "description": "Second-year Russian grammar, with attention to reading, writing, and speaking.",
+    "prereq_raw": "LTRU 1C or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 2B",
+    "title": "Second-Year Russian",
+    "units": 5,
+    "description": "Second-year Russian grammar, with attention to reading, writing, and speaking.",
+    "prereq_raw": "LTRU 2A or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 104A",
+    "title": "Advanced Practicum in Russian: Linguistic Skills Development",
+    "units": 4,
+    "description": "Advanced Russian grammar taught for varying ability levels. Close work with original texts and film to develop comprehension, production, and analytical skills. May be taken for credit up to two times.",
+    "prereq_raw": "LTRU 2B or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 104B",
+    "title": "Advanced Practicum in Russian: Analysis of Text and Film",
+    "units": 4,
+    "description": "Development of advanced skills in reading, writing, and conversation. Course based on written and oral texts of various genres and styles. Individualized program to meet specific student needs. May be taken for credit up to two times.",
+    "prereq_raw": "LTRU 104A or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 104C",
+    "title": "Advanced Practicum in Russian: Analysis of Text and Film",
+    "units": 4,
+    "description": "Development of advanced skills in reading, writing, and conversation. Course based on written and oral texts of various genres and styles. Individualized program to meet specific student needs. May be taken for credit up to two times.",
+    "prereq_raw": "LTRU 104A or its equivalent or consent of instructor."
+  },
+  {
+    "code": "LTRU 110A",
+    "title": "Survey of Russian and Soviet Literature in Translation, 1800\u20131860",
+    "units": 4,
+    "description": "A study of literary works from 1800\u20131860.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTRU 110B",
+    "title": "Survey of Russian and Soviet Literature in Translation, 1860\u20131917",
+    "units": 4,
+    "description": "A study of literary works from 1860\u20131917.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTRU 110C",
+    "title": "Survey of Russian and Soviet Literature in Translation, 1917\u2013present",
+    "units": 4,
+    "description": "A study of literary works from 1917\u2013present.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTRU 123",
+    "title": "Single Author in Russian Literature in Translation",
+    "units": 4,
+    "description": "Study of the works of a single Russian author. LTEU 158 and LTRU 123 may be taken for credit for a combined total of three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTRU 150",
+    "title": "Russian Culture",
+    "units": 4,
+    "description": "An introduction to Russia\u2019s past and present through the cross-disciplinary study of literature, the visual and performing arts, social and political thought, civic rituals, popular entertainments, values and practices from 1825 to the present. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "upper-division standing."
+  },
+  {
+    "code": "LTRU 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group study in areas of Russian literature not normally covered in courses. May be taken for credit up to four times as topics vary. (P/NP grades only.)",
+    "prereq_raw": "upper-division standing and permission of department."
+  },
+  {
+    "code": "LTSP 2A",
+    "title": "Intermediate Spanish I",
+    "units": 5,
+    "description": "Emphasizes the development of communication skills, listening comprehension, reading ability, and writing skills. It includes grammar review, composition, and class discussions. This course is for students who began learning Spanish in a classroom environment. Students who have experience with Spanish outside of the classroom (at home, in their community) should take courses for heritage learners (LTSP 1F, 2F, 3F).",
+    "prereq_raw": "LISP 1C/1CX or LISP 1D/DX, or score of 3 on AP Spanish Language Exam, or placement result of 3 or 4 the Language Placement Exam\u2014Spanish, or consent of instructor."
+  },
+  {
+    "code": "LTSP 2B",
+    "title": "Intermediate Spanish II",
+    "units": 5,
+    "description": "Review of major points of grammar with emphasis on oral communication and critical reading and interpretation of Spanish texts through class discussions, vocabulary development, and written compositions. It is a continuation of LTSP 2A. This course is for students who began learning Spanish in a classroom environment. Students who have experience with Spanish outside of the classroom (at home, in their community) should take courses for heritage learners (LTSP 1F, 2F, 3F).",
+    "prereq_raw": "LTSP 2A or score of 4 on AP Spanish language or 3 on AP Spanish literature exams or consent of instructor."
+  },
+  {
+    "code": "LTSP 2C",
+    "title": "Intermediate Spanish III",
+    "units": 5,
+    "description": "Continuation of LTSP 2B, with special emphasis in speaking and writing. It includes discussion of cultural topics, grammar review, composition and presentations to further develop the ability to read longer fiction and nonfictional texts. The course is for students who began learning Spanish in a classroom environment. Students who have experience with Spanish outside of the classroom (at home, in their community) should take courses for heritage learners (LTSP 1F, 2F, 3F).",
+    "prereq_raw": "LTSP 2B or score of 5 on AP Spanish language or 4 on AP Spanish literature exams or consent of instructor."
+  },
+  {
+    "code": "LTSP 1F",
+    "title": "Spanish for Heritage Learners I",
+    "units": 4,
+    "description": "This course is for students who have a cultural connection to Spanish having been exposed to Spanish at home, from relatives, or in the community. In this class we do not assume students have speaking ability Spanish, but understand some Spanish passively. The course builds on the skills students already have in order to expand their written and oral proficiency in a confidence-building environment. Students also explore their cultural heritage and learn about Hispanic cultures in the U.S.",
+    "prereq_raw": "consent of instructor (through placement exam). Students will need to confirm their heritage learner status through placement exam and consultation with our department faculty."
+  },
+  {
+    "code": "LTSP 2F",
+    "title": "Spanish for Heritage Learners II",
+    "units": 4,
+    "description": "The course is designed for those students who learned Spanish at home and/or other students from Spanish-speaking backgrounds that have little to no formal training in the language. The main goals of the course are to enhance students\u2019 reading, writing, speaking, and listening skills in a culturally relevant setting. Students also explore their cultural heritage and learn about Hispanic cultures in the United States and the language diversity of its speakers. Renumbered from LTSP 2D. Students may not receive credit for both LTSP 2F and LTSP 2D.",
+    "prereq_raw": "LTSP 1F or consent of instructor."
+  },
+  {
+    "code": "LTSP 3F",
+    "title": "Spanish for Heritage Learners III",
+    "units": 4,
+    "description": "This course is designed for students who have been raised in a Spanish-speaking environment and speak some Spanish as a result of hearing it in the home and in the community by family, friends, and neighbors, or some experience with Spanish in the classroom. The main goals of this course are to further develop and expand the Spanish language skills in reading, writing, listening, and speaking, while promoting a greater connection with the Latinx cultures of the students\u2019 heritage. Renumbered from LTSP 2E. Students may not receive credit for both LTSP 3F and LTSP 2E.",
+    "prereq_raw": "LTSP 2D or LTSP 2F or consent of instructor."
+  },
+  {
+    "code": "LTSP 87",
+    "title": "First-year Student Seminar",
+    "units": 1,
+    "description": "The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTSP 100A",
+    "title": "Advanced Spanish Language and Culture",
+    "units": 4,
+    "description": "This course is an advanced conversation and writing course for second language learners of Spanish. The objective of the course is to develop oral, reading, and writing academic proficiency in Spanish. Students will explore a variety of cultural, literary, and writing genres from the Spanish-speaking world in both class discussions and writing assignments. This course has the purpose of preparing students to work in a professional context in Spanish. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "LTSP 2C."
+  },
+  {
+    "code": "LTSP 100F",
+    "title": "Advanced Spanish Language and Culture for Heritage Learners",
+    "units": 4,
+    "description": "For students who learned Spanish at home and/or who went to school in a Spanish speaking country. This course allows students to expand their oral, reading, and writing academic proficiency in Spanish and through class discussions promote critical thinking in a relevant cultural context for Latinx students. Additionally, students will explore a variety of cultural, literary, and writing genres. This course has the purpose of preparing students to work in a professional context in Spanish. Renumbered from LTSP 100B. LTSP 100F and/or LTSP 100B may be taken for credit for a combined total of three times as topics vary.",
+    "prereq_raw": "LTSP 2E or LTSP 3F."
+  },
+  {
+    "code": "LTSP 101",
+    "title": "Major Works of the Middle Ages",
+    "units": 4,
+    "description": "Major Spanish literary works of the Middle Ages and Renaissance as seen against the historical and intellectual background of this period. Renumbered from LTSP 100. Students may receive a combined total of twelve units for LTSP 100 and LTSP 101.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 110",
+    "title": "Descriptive Spanish Grammar",
+    "units": 4,
+    "description": "This course explores advanced Spanish grammar topics from a corpus-based approach and how grammar and culture intertwine. We will also discuss the language dialectal variation of the Spanish-speaking world with an emphasis in the Spanish spoken along the US-Mexico border. Students will bring examples of Spanish from their communities to the classroom to help facilitate discussions on Spanish grammar.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 115",
+    "title": "Critical Race Studies in Latin America",
+    "units": 4,
+    "description": "This course offers an interdisciplinary and transnational approach to racism in Latin America. It problematizes the categories of race and racism to introduce students to the multidimensional and particular development of these problematic formations. In addition, it addresses specific moments in the history of Latin America from colonial times to the present day. It also exposes students to different cultural regions from Latin America.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 116",
+    "title": "Representations of Spanish Colonialism",
+    "units": 4,
+    "description": "Analysis of selected materials that represent the cultural and political relationship between Spain and its colonies. Close reading of literary texts and historical documents. Specific periods covered will fall between the origins of empire in the early sixteenth century to the demise of imperial Spain in 1898; topics may include cultural exchanges between Spain and Latin America, the Philippines, or the US Southwest. May be taken for credit up to two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 123",
+    "title": "Topics in Modern Spanish Culture",
+    "units": 4,
+    "description": "Investigation of selected topics concerning Spanish cultural production after 1800. Topics might focus on a genre (film, popular novel, theatre) or on the transformations of a theme or metaphor (nation, femininity, the uncanny). May be taken for credit up to two times as topics vary. Students may receive a combined total of eight units for LTSP 123 and LTSP 123GS.",
+    "prereq_raw": "LTSP 100A or 100B, or consent of instructor."
+  },
+  {
+    "code": "LTSP 124",
+    "title": "Spanish in the Community",
+    "units": 4,
+    "description": "An overview of the study of the Spanish language as it is spoken in the community and the social and cultural meaning attached to different ways of speaking. Topics include culture of language, language and gender, language variation and change, language attitudes and ideologies, language contract, language choice, language mixing, language politics and planning.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 126",
+    "title": "Spanish in the United States",
+    "units": 4,
+    "description": "The goal of this course is to introduce students to the many cultural and language issues facing speakers of Spanish in the United States. Topics will include the representation of Spanish speakers in the media, Spanish in education, language attitudes, and bilingual phenomena. We will also discuss the power dynamics and language ideologies that lead to language discrimination practices.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 128",
+    "title": "Community Language Project",
+    "units": 4,
+    "description": "In this project-based course we will document the language and culture spoken by bilingual community members. Students will be trained in the best practices for conducting interviews and then will interview community members about their experiences or will be trained to work with other representations of language in the community. We will use the interviews and other language documentation to facilitate class discussion on language and culture.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 134",
+    "title": "Literature of the Southern Cone",
+    "units": 4,
+    "description": "Study of movements, traditions, key authors, or major trends in Argentine, Paraguayan, Uruguayan, and Chilean literatures, such as gaucho poetry, the realist novel, modern urban narratives, the Borges School, etc. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 135A",
+    "title": "Mexican Literature before 1910",
+    "units": 4,
+    "description": "Explores the relationships among cultural production, politics, and societal changes in Mexico before the 1910 Revolution, specifically the roles of intellectuals and popular culture in nation-building and modernization. Readings may include didactic literature and historiographic writings, forms of popular discourse, as well as novels and poetry. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 135B",
+    "title": "Modern Mexican Literature",
+    "units": 4,
+    "description": "Study of popular novels, movements, traditions, key authors, or major trends in modern Mexican literature. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 136",
+    "title": "Andean Literature",
+    "units": 4,
+    "description": "Study of movements, traditions, key authors, or major trends in Peruvian, Ecuadorian, and Bolivian literatures, such as indigenismo, urban narrative, and the works of authors such as Vallejo, Icaza, Arguedas, Vargas Llosa. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 137",
+    "title": "Caribbean Literature",
+    "units": 4,
+    "description": "Study of movements, traditions, key authors, or major trends in Caribbean literature in Spanish, such as the romantic movement, the literature of independence, the essay tradition, Afro-Antillean literature, the historical novel. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 138",
+    "title": "Central American Literature",
+    "units": 4,
+    "description": "Study of movements, traditions, key authors, or major trends in the literatures of Guatemala, El Salvador, Nicaragua, Honduras, Costa Rica, and Panama, such as the anti-imperialist novel,  indigenismo,  guerrilla poetry, and  testimonio.  May be taken for credit up to two times as topics vary.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 145",
+    "title": "Memory, Human Rights, and Culture in Iberia and Latin America",
+    "units": 4,
+    "description": "This course analyzes cultural representations (novels, films, poems, theatre plays, performances, etc.) that reconstruct the memory of human rights abuses in Iberia and/or Latin America. The course addresses the relationship between memory and justice in post-dictatorial societies.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 150",
+    "title": "Chicanx/Latinx Cultural Expressions",
+    "units": 4,
+    "description": "This course examines Chicanx/Latinx cultural expressions and representations through a broad range of forms, such as television, film, music, literature, etc. Students will explore how past and present social and political experiences inform Chicanx/Latinx expressive forms. Students will also consider the global reach of Chicanx/Latinx cultural forms.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 150A",
+    "title": "Early Latino/a-Chicano/a Cultural Production: 1848 to 1960",
+    "units": 4,
+    "description": "Cross-disciplinary study of nineteenth- and early twentieth-century Latino/a-Chicano/a literature, folklore, music, testimonio, or other cultural practices. Specific periods covered will fall between the immediate aftermath of the Treaty of Guadalupe Hidalgo to the Cuban revolution. LTSP 150A and ETHN 135A may be taken for credit for a combined total of two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 150B",
+    "title": "Contemporary Chicano/a-Latino/a Cultural Production: 1960 to Present",
+    "units": 4,
+    "description": "Cross-disciplinary study of late twentieth-century Latino/a-Chicano/a literature, the visual and performing arts, film, or other cultural practices. Specific periods covered will fall between the Kennedy years to the era of neoliberalism and the creation of \u201cHispanic\u201d or Latino identities. LTSP 150B and ETHN 135B may be taken for credit for a combined total of two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 151",
+    "title": "Topics in Chicano/a-Latino/a Cultures",
+    "units": 4,
+    "description": "Cross-disciplinary study of late twentieth-century Chicano/a-Latino/a literature, the visual and performing arts, film, or other cultural practices. Representative areas of study are social movements, revolution, immigration, globalization, gender and sexuality, cultures of the US-Mexican border, and Chicano/a-Mexicano/a literary relations. May be taken up to two times for credit.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 155",
+    "title": "Asia in Latin America",
+    "units": 4,
+    "description": "This course introduces students to the comparative and multidisciplinary study of cultural productions and historical formations that link Asia and Latin America. Students will be exposed to diverse methodologies drawn from transpacific studies, postcolonial theory, critical race studies, and the study of imperialism, colonialism, global modernity, and popular cultures.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 166",
+    "title": "Creative Writing",
+    "units": 4,
+    "description": "A workshop designed to foster and encourage writing in Spanish of students working on short forms of fiction. The workshop will include discussions of techniques and intensive writing.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 169",
+    "title": "Latin American Popular and Mass Cultures",
+    "units": 4,
+    "description": "This class explores Latin American popular culture. Students will be exposed to cultural forms traditionally associated with the popular sectors of Latin American societies such as the soap opera, popular music, TV series, oral narratives, detective fiction, or the romantic novel. These non-elitist forms of cultural expressions will provide access to the structure of feeling of the non-white lower classes in the region.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 170",
+    "title": "Contemporary Theories of Cultural Production",
+    "units": 4,
+    "description": "Selected readings in recent cultural and literary theory. Students will be exposed to a variety of methodologies drawn from the Latin American, European, and US traditions. The course is recommended for students who plan to pursue graduate work in literature. May be taken for credit up to two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 172",
+    "title": "Indigenista Themes in Latin American Literature",
+    "units": 4,
+    "description": "Study of the literary modes by which nineteenth- and twentieth-century authors have interpreted the themes of indigenous survival and resistance in Latin America, primarily in Mexico and the Andean region. May be taken for credit up to two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 174",
+    "title": "Topics in Culture and Politics",
+    "units": 4,
+    "description": "Study of the relationships between cultural production (literature, film, popular cultures), social change, and political conflict, covering topics such as colonialism, imperialism, modernization, social movements, dictatorship, revolution. May be taken for credit up to two times as topics vary. Students may receive a combined total of eight units for LTSP 174 and LTSP 174GS.",
+    "prereq_raw": "LTSP 100A or 100B, or consent of instructor."
+  },
+  {
+    "code": "LTSP 175",
+    "title": "Feminisms, Gender, and Sexuality in Latin America",
+    "units": 4,
+    "description": "This course analyzes feminist studies in Latin America. It addresses the theoretical, intellectual, and activist trajectories as well as the gender and sexuality configurations in the region. In addition, students will be able to work with different types of texts and archives produced in Latin America. May be taken for credit up to two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 176",
+    "title": "Literature and Nation",
+    "units": 4,
+    "description": "Study of literature as a means through which the nation has been imagined and as a site of debates over national identity and citizenship. Course materials may focus on Spain and/or Latin America. May be taken for credit up to two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 177",
+    "title": "Literary and Historical Migrations",
+    "units": 4,
+    "description": "This course will focus on a variety of Latin American and/or Spanish intra- and international migrations throughout the world and on the literature produced by these exiles or immigrants. May be taken for credit up to two times.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 180",
+    "title": "Film and Visual Arts in Latin America",
+    "units": 4,
+    "description": "This course analyzes different visual narratives (film, television, art, graffiti, murals, etc.) produced in Latin America. Students will be exposed to both classic and contemporary films from the region as well as to other relevant forms of visual culture in their historical context. These visual narratives will be related both to the political and historical context of Latin America.",
+    "prereq_raw": "LTSP 100A or 100B or 100F, or consent of instructor."
+  },
+  {
+    "code": "LTSP 196",
+    "title": "Honors Thesis",
+    "units": 4,
+    "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program and who have completed LTWL 191. Oral Exam.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTSP 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group study in areas of Spanish literature not normally covered in courses. May be taken for credit up to four times as topics vary. (P/NP grade only.)",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTSP 258",
+    "title": "Spanish American Prose",
+    "units": 4,
+    "description": "Consideration of one or more major figures, texts, trends, or problems in Spanish American prose. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTSP 272",
+    "title": "Literature and Society Studies",
+    "units": 4,
+    "description": "Special topics in practical criticism involving social and economic historical perspectives. May be taken up to three times for credit when topics vary. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTSP 297",
+    "title": "Directed Studies: Reading Course",
+    "units": 1,
+    "description": "This course may be designed according to an individual student\u2019s needs when seminar offerings do not cover subjects, genres, or authors of interest. No paper required. The 297 courses do not count toward the seminar requirement. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTSP 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subjects not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTSP 299",
+    "title": "Dissertation",
+    "units": 1,
+    "description": "Research for the dissertation. Offered for repeated registration. Open only to PhD students who have advanced to candidacy.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTTH 110",
+    "title": "History of Criticism",
+    "units": 4,
+    "description": "A critical and interpretive review of some of the major documents in criticism from the classical period to the present time.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTTH 115",
+    "title": "Introduction to Critical Theory",
+    "units": 4,
+    "description": "A critical review of major contemporary theories of the nature of literature, its sociocultural function, and appropriate modes of evaluation. May be taken for credit up to four times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTTH 150",
+    "title": "Topics in Critical Theory",
+    "units": 4,
+    "description": "Selected topics in critical theory such as a particular mode of literary theory; comparative study of theories of text and image; a problem or theme in the history of theory; and issues involved in the relationship between fiction and other discourses (science, law, history, philosophy, music). May be taken for credit up to four times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTTH 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Directed group study, under the guidance of a member of the faculty, in an area not covered in courses currently offered by the department. May be taken for credit up to three times as topics vary. (P/NP only.)",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTTH 210A",
+    "title": "Proseminar on Literary Scholarship",
+    "units": 4,
+    "description": "This proseminar, regularly offered in the fall quarter, consists of seven or eight guest lectures by the literature faculty and introduces their research and methodologies. This proseminar is organized by a literature faculty member or the director of doctoral studies. The course is required in the first year of the Department of Literature doctoral program. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTTH 210B",
+    "title": "Introduction to Literary Theory",
+    "units": 4,
+    "description": "This seminar, regularly offered in the winter quarter, introduces various literary theories that are essential for graduate studies in the field of literature and other related fields. The list of readings is decided by the course instructor in consultation with the department. The course is required in the first year of the Department of Literature doctoral program. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTTH 210C",
+    "title": "Practicum in Contemporary Literary Theory",
+    "units": 4,
+    "description": "This course, regularly offered in the spring quarter, prepares students for dissertation research, publication, conference presentation, and job search. The course is required in one of the first three years of the Department of Literature doctoral program. Restricted to major code LT77 or consent of instructor and department.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTTH 250",
+    "title": "Writing and Theory",
+    "units": 4,
+    "description": "An overview of issues in modern critical theory as they pertain to writers. Will focus on issues of textuality, cultural forms, and aesthetics as they impact the process and meaning of writing. Restricted to major code LT84 or consent of instructor and department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTTH 298",
+    "title": "Special Projects: Writing Course",
+    "units": 1,
+    "description": "Similar to a 297, but a paper is required. Papers are usually on subjects not covered by seminar offerings. Up to two 298s may be applied toward the twelve-seminar requirement of the doctoral program. Repeatable for credit.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 10",
+    "title": "Environmental Literature",
+    "units": 4,
+    "description": "This introductory course will consider environmental texts across a range of literary genres, including nature writing, fiction, film, and poetry. Students will have the opportunity to engage with texts from a range of historical and cultural perspectives, and analyze how narrative forms not only reflect but also shape and influence humanity\u2019s relationship to the environment.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 11",
+    "title": "Health and Literature",
+    "units": 4,
+    "description": "This course explores representations of health, medicine, and the body across a historically and culturally diverse range of texts. We will examine how authors and artists use illness, disability, and wellness as themes and motifs in their work, and discuss how these representations not only reflect but also shape attitudes and beliefs about health.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 12",
+    "title": "Migration and Literature",
+    "units": 4,
+    "description": "This course will explore the narratives that shape our understanding of migration, diaspora, borders, and nation-making. Drawing from literature, film, and other narrative genres, students will examine the complexities and contradictions of border narratives from a diverse range of historical and cultural perspectives.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 87",
+    "title": "First-year Student Seminar",
+    "units": 1,
+    "description": "The First-year Student Seminar Program is designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. First-year student seminars are offered in all campus departments and undergraduate colleges, and topics vary from quarter to quarter. Enrollment is limited to fifteen to twenty students, with preference given to entering first-year students.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 100",
+    "title": "Mythology",
+    "units": 4,
+    "description": "A study of various bodies of myth: their content, form, and meaning. May be taken for credit up to two times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 101",
+    "title": "Death and Life in Ancient Egypt",
+    "units": 4,
+    "description": "Who were the Egyptians? What was life like in ancient Egypt? How did they view themselves and the world around them? To answer these questions, this course will take a whirlwind tour covering some 4,000 years. To break up our historical tour de force we will often pause to look at themes that make Egyptian civilization so worth our collective attention. This includes mythology, language and literature, the afterlife, and the legacy of ancient Egypt today. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 102",
+    "title": "Life and Death in Ancient Mesopotamia",
+    "units": 4,
+    "description": "Who were the people of Mesopotamia? What was life like in ancient Sumer and Babylon? How did they view themselves and the world around them? To answer these questions, this course will take a rapid tour covering about 4,000 years. To break up our historical tour de force we will often pause to look at themes that make Mesopotamian civilization so interesting. This includes mythology, language and literature, magic, medicine, the afterlife, and the legacy of ancient Mesopotamia today.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 103",
+    "title": "Magic in the Ancient World",
+    "units": 4,
+    "description": "This class explores the fascinating and multifaceted world of magic in the ancient world, encompassing Greek, Roman, Egyptian, and Near Eastern traditions, among others. This course delves into the various magical text genres, beliefs, and rituals that permeated ancient cultures, examining their social, religious, and historical contexts. Students will investigate how magical texts were understood and utilized, and how they intersected with religion, medicine, and daily life.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 106",
+    "title": "The Classical Tradition",
+    "units": 4,
+    "description": "Greek and Roman literature in translation. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 110B",
+    "title": "Folk and Fairy Tales",
+    "units": 4,
+    "description": "A study of folk and fairy tales from various cultures, from the point of view of literary form, psychological meaning, and cultural function. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 114",
+    "title": "Children\u2019s Literature",
+    "units": 4,
+    "description": "A study of literature written for children in various cultures and periods. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 116",
+    "title": "Adolescent Literature",
+    "units": 4,
+    "description": "A study of fiction written for the young adult in various cultures and periods. Consideration will be given to the young adult hero in fiction. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 120",
+    "title": "Popular Literature and Culture",
+    "units": 4,
+    "description": "A study of various popular forms\u2014such as pop music, cult books, film, fashion, magazines, graphic arts\u2014within a broader cultural context. Focus may be on a particular genre (e.g., best sellers) or era (e.g., the sixties). May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 124",
+    "title": "Science Fiction",
+    "units": 4,
+    "description": "An exploration of the genre\u2014past and present, in literature and the visual media\u2014as a cultural response to scientific and technological change, as modern mythmaking, and as an enterprise serving a substantial fan subculture. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 128",
+    "title": "Introduction to Semiotics and Applications",
+    "units": 4,
+    "description": "Semiotics, basically a theory of signification, describes the models and conceptual constructs through which meaning is grasped and produced. Background in the history of semiotics and its dominant models. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 134",
+    "title": "Cinema and Islam",
+    "units": 4,
+    "description": "This course examines histories and theories of cinema and Islam. It offers an overview on intersections between film and religious experience in various Muslim cultures, and how such experiences are ultimately grounded in shifting historical and social settings.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 138",
+    "title": "Critical Religion Studies",
+    "units": 4,
+    "description": "Selected topics, texts, and problems in the study of religion. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 143",
+    "title": "Arab Literatures and Cultures",
+    "units": 4,
+    "description": "Lecture/discussion course focusing on Arab literatures and cultures. It could offer study of any period of Arab cultures, from ante-Islam to the contemporary world. Topics may include themes (e.g., gender, social critique) or focus on specific genres or aesthetics (film, novel, realism). May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 145",
+    "title": "South Asian Religious Literatures: Selected Topics",
+    "units": 4,
+    "description": "One or two topics in the religious literatures of South Asia will be examined in depth. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 150",
+    "title": "Modernity and Literature",
+    "units": 4,
+    "description": "Explores the various cross-cultural historical, philosophical, and aesthetic ideas which formed the basis of most twentieth-century literature. Literature from the Americas, Europe, Asia, and Africa will be studied through lectures and the reading of texts in English translation. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 155",
+    "title": "Gender Studies",
+    "units": 4,
+    "description": "The study of the construction of sexual differences in literature and culture. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 156",
+    "title": "Asian Diasporic Cinema",
+    "units": 4,
+    "description": "This course examines the presence of diasporic Asians in the U.S. through film and visual media. The Asian diasporic figures we examine will include the immigrant, the exile, the refugee, the transnational adoptee, the Internet bride, the queer subject, and the restauranteur. How does diaspora challenge and reinforce national identity? How does it interrogate notions of ethnic, racial, and cultural authenticity? In what ways does diaspora trouble the idea of an original homeland?",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 157",
+    "title": "Iranian Film",
+    "units": 4,
+    "description": "Course sets out to explore the history and theory of Iranian films in the context of the country\u2019s political, cultural, and religious settings since 1945. Students are expected to watch and discuss Iranian films, particularly the postrevolutionary films of Kiarostami and Mokhbalbaf. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 158A",
+    "title": "Topics in the New Testament",
+    "units": 4,
+    "description": "Literary and sociohistorical considerations of the diverse writings that developed into the New Testament. Topics include Jewish origins of the \u201cJesus movement\u201d within Greco-Roman culture; varying patterns of belief/practice among earliest communities; oral tradition and development of canon. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 158B",
+    "title": "Topics in Early Christian Texts and Cultures",
+    "units": 4,
+    "description": "This course investigates the manner in which texts shape religious identities on the individual and communal level in sociohistorical and cultural contexts: various topics include portraits of Jesus, saints\u2019 lives, death and afterlife, martyrdom, demonology, apocalypticism, Christianity, and empire. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 158C",
+    "title": "Topics in Other Christianities",
+    "units": 4,
+    "description": "A survey of the Christian texts that comprise the fatalities of the battles defining Christian canon (e.g., apocryphal acts, noncanonical gospels, and \u201cGnostic\u201d texts). Considers the social communities, theological views, religious identities, and practices reflected in largely forgotten texts. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 159",
+    "title": "Digital Middle East: Culture, Politics, and Religion",
+    "units": 4,
+    "description": "This course examines the role of Information Communication Technologies (ICTs) such as the internet, mobile, and satellite TV in the reshaping of the Middle East and North Africa. It will focus on how ICTs like the internet are changing culture, politics, and religion in the region and implication of such transformations.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 160",
+    "title": "Women and Literature",
+    "units": 4,
+    "description": "This course will explore the relationship between women and literature, i.e., women as producers of literature, as objects of literary discourse, and as readers. Foreign language texts will be read in translation. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 165",
+    "title": "Literature and the Environment",
+    "units": 4,
+    "description": "Studies in the environmental humanities, examining how environmental and climatic change is represented in literature and culture. May be taken for credit up to three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 166",
+    "title": "The Yiddish Novel",
+    "units": 4,
+    "description": "Yiddish literature is much more than folk songs and jokes. We will read major American and European works by Nobel laureate I. B. Singer, his brother I. J. Singer, and his sister Esther Kreytman, Sholem Aleichem, Mendele, Chava Rozenfarb, and others. (In English translation.)",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 167",
+    "title": "Topics in Yiddish Literature and Culture",
+    "units": 4,
+    "description": "This course will introduce students to a range of topics in Yiddish fiction and culture. It will include an introduction to the thousand-year-old Germanic language, spoken by most Jews of Europe before World War II. The course will introduce students to a period, genre, or writer in Yiddish. These topics may range from Old Yiddish to gender in Yiddish fiction, Yiddish poetry, contemporary Yiddish culture, Soviet Yiddish literature, or Yiddish film. May be taken for credit up to three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 172",
+    "title": "Special Topics in Literature",
+    "units": 4,
+    "description": "Studies in specialized literary, philosophic, and artistic movements, approaches to literature, literary ideas, historical moments, etc. LTWL 172 and LTWL 172GS may be taken for credit for a combined total of three times.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 174",
+    "title": "Law and Literature",
+    "units": 4,
+    "description": "Examines law in its cultural context by investigating the intersections between law and literature. Through readings of literary texts alongside laws, court cases, and legal theory, this course explores the relationships between literary and legal modes of textual interpretation. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 176",
+    "title": "Literature and Ideas",
+    "units": 4,
+    "description": "The course will center on writers or movements of international literary, cultural, or ideological significance. The texts studied, if foreign, may be read either in the original language or in English. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 177",
+    "title": "Literature and Aging",
+    "units": 4,
+    "description": "A humanistic approach to the research field of healthy aging. Students learn to bring humanistic practices to the study of aging in the fields of neurobiology, biomedical engineering, neuroscience, and medical education.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 180",
+    "title": "Film Studies and Literature: Film History",
+    "units": 4,
+    "description": "The study of film history and its effects upon methods of styles in literary history. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 181",
+    "title": "Film Studies and Literature: Film Movement",
+    "units": 4,
+    "description": "Study of analogies between literary movements and film movements. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 183",
+    "title": "Film Studies and Literature: Director\u2019s Work",
+    "units": 4,
+    "description": "Methods of criticism of author\u2019s work applied to the study and analysis of film director\u2019s style and work. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 184",
+    "title": "Film Studies and Literature: Close Analysis of Filmic Text",
+    "units": 4,
+    "description": "Methods of literary analysis applied to the study of shots, sequences, poetics, and deep structure in filmic discourse. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 191",
+    "title": "Honors Seminar",
+    "units": 4,
+    "description": "Explorations in critical theory and method. This course, designed to prepare students to write an honors thesis, is open only to literature majors invited into the department\u2019s Honors Program.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWL 192",
+    "title": "Senior Seminar in Literatures of the World",
+    "units": 1,
+    "description": "The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in literature (at the upper-division level). Senior Seminars may be offered in all campus departments. Topics will vary from quarter to quarter. Senior Seminars may be taken for credit up to four times, with a change in topic, and permission of the department. Enrollment is limited to twenty students, with preference given to seniors.",
+    "prereq_raw": "department stamp and/or consent of instructor."
+  },
+  {
+    "code": "LTWL 194",
+    "title": "Capstone Course for Literature Majors",
+    "units": 4,
+    "description": "An advanced seminar open to all literature majors in their senior year. Required for those interested in the Honors Program. It offers an integrative experience by considering key facets of the discipline, including literary theory/historiography, knowledge of neighboring disciplines, and relevance of literature/culture studies in various professions outside of academia.",
+    "prereq_raw": "senior standing."
+  },
+  {
+    "code": "LTWL 194A",
+    "title": "Honors Practicum",
+    "units": 1,
+    "description": "Honors practicum for those students in the literature department Honors Program. This is a one-unit course for which students in the Honors Program will present their work as part of organized panels at an Honors Program conference (within the department). Students will receive a P/NP grade for LTWL 194A for completing the presentation.",
+    "prereq_raw": "LTWL 194 or LTWR 194, and senior standing."
+  },
+  {
+    "code": "LTWL 196",
+    "title": "Honors Thesis",
+    "units": 4,
+    "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program and who have completed LTWL 191. Oral exam.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTWL 198",
+    "title": "Directed Group Study",
+    "units": 4,
+    "description": "Research seminars and research, under the direction of faculty member. May be taken for credit up to three times as topics vary.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTWR 8A",
+    "title": "Writing Fiction",
+    "units": 4,
+    "description": "Study of fiction in both theory and practice. Narrative technique studied in terms of subjectivity and atmosphere, description, dialogue, and the editing process will be introduced through readings from the history of the novel and short story. Students are required to attend at least three New Writing Series readings during the quarter.",
+    "prereq_raw": "CAT 2 and 3 or CCE 1 and 2 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B or SYN 1 and 2."
+  },
+  {
+    "code": "LTWR 8B",
+    "title": "Writing Poetry",
+    "units": 4,
+    "description": "Study and practice of poetry as artistic and communal expression. Techniques of composition (traditional forms, avant garde techniques, dramatic monologue, performance poetry, and new genre) studied through written and spoken examples of poetry. Students are required to attend at least three New Writing Series readings during the quarter.",
+    "prereq_raw": "CAT 2 and 3 or CCE 1 and 2 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B or SYN 1 and 2."
+  },
+  {
+    "code": "LTWR 8C",
+    "title": "Writing Nonfiction",
+    "units": 4,
+    "description": "Study of nonfictional prose in terms of genre and craft. Techniques of composition (journalism, essay, letters, reviews) will be studied through written examples of the genre.",
+    "prereq_raw": "CAT 2 and 3 or CCE 1 and 2 or DOC 2 and 3 or HUM 1 and 2 or MCWP 40 and 50 or MMW 12 and 13 or WARR 11A-B or WCWP 10A-B or SYN 1 and 2."
+  },
+  {
+    "code": "LTWR 100C",
+    "title": "Short Fiction Craft",
+    "units": 4,
+    "description": "A reading and craft class for students with some experience and special interest in writing fiction. There will be analysis and discussion of representative examples of short fiction from the present and previous ages. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A."
+  },
+  {
+    "code": "LTWR 100W",
+    "title": "Short Fiction Workshop",
+    "units": 4,
+    "description": "A workshop for students with some experience and special interest in writing fiction. This workshop is designed to encourage regular writing in the short forms of prose fiction and to permit students to experiment with various forms. This class is primarily characterized by the discussion of student work. Renumbered from LTWR 100. LTWR 100W may only be taken once for credit. No credit is given for LTWR 100W if prior credit was earned three times for LTWR 100 and/or LTWR 100GS. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A."
+  },
+  {
+    "code": "LTWR 102C",
+    "title": "Poetry Craft",
+    "units": 4,
+    "description": "A reading and craft class for students with some experience and special interest in writing poetry. There will be analysis and discussion of representative examples of poetry from the present and previous ages. Reading and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8B."
+  },
+  {
+    "code": "LTWR 102W",
+    "title": "Poetry Workshop",
+    "units": 4,
+    "description": "A workshop for students with some experience and special interest in writing poetry. This workshop is designed to encourage regular writing of poetry. Focuses primarily on the discussion of student work. Renumbered from LTWR 102. LTWR 102W may only be taken once for credit. No credit given for LTWR 102W if prior credit was earned three times for LTWR 102. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8B."
+  },
+  {
+    "code": "LTWR 103C",
+    "title": "Digital Poetics Craft",
+    "units": 4,
+    "description": "This reading and craft class includes instruction on using software and writing basic computer code to allow students to create innovative web-based works that experiment with poetic form, draw on rich media resources, and provide more accessibility and interactivity for public audiences. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8B."
+  },
+  {
+    "code": "LTWR 106C",
+    "title": "Science Fiction, Fantasy, and Irrealism Craft",
+    "units": 4,
+    "description": "In this reading and craft class, students will practice skills or narration, characterization, and style with particular attention to the demands of nonrealistic genres, especially the challenge of suspending disbelief in fictional environments that defy conventional logic. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A."
+  },
+  {
+    "code": "LTWR 109C",
+    "title": "Writing and Publishing Children\u2019s Literature Craft",
+    "units": 4,
+    "description": "A reading and craft class in writing for children, with the additional focus of exploring successful approaches to publication of children\u2019s stories. There will be regular weekly reading and writing assignments. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A."
+  },
+  {
+    "code": "LTWR 110C",
+    "title": "Screen Writing Craft",
+    "units": 4,
+    "description": "A reading and craft class designed to encourage writing of original screenplays and adaptations. There will be analysis and discussion of representative examples of screen writing. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWR 110W",
+    "title": "Screen Writing Workshop",
+    "units": 4,
+    "description": "A workshop designed to encourage writing of original screenplays and adaptations. Class will focus primarily on the discussion of student work. Renumbered from LTWR 110. LTWR 110W may only be taken once for credit. No credit given for LTWR 110W if prior credit was earned three times for LTWR 110. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 110C."
+  },
+  {
+    "code": "LTWR 113C",
+    "title": "Intercultural Writing Craft",
+    "units": 4,
+    "description": "This course is an introduction to modes of writing from other cultural systems vastly different from the cultural and aesthetic assumptions of Anglo-American writing. While disclosing the limitations of the English language, this course attempts to provide new language strategies for students. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A or 8B or 8C."
+  },
+  {
+    "code": "LTWR 114C",
+    "title": "Graphic Texts Craft",
+    "units": 4,
+    "description": "From illuminated manuscripts to digital literatures, from alphabets to concrete poems, from artists\u2019 books to comics, this course explores the histories and techniques of combinatory image/word literary arts. The course may emphasize specific movements or genres. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A or 8B or 8C."
+  },
+  {
+    "code": "LTWR 114W",
+    "title": "Graphic Texts Workshop",
+    "units": 4,
+    "description": "From illuminated manuscripts to digital literature, from alphabets to concrete poems, from artists\u2019 books to comics, this workshop focuses on the histories and techniques of combinatory image/word literary arts. The course may emphasize specific movements or genres. Renumbered from LTWR 114. LTWR 114W may only be taken once for credit. No credit given for LTWR 114W if prior credit was earned three times for LTWR 114. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 114C."
+  },
+  {
+    "code": "LTWR 115C",
+    "title": "Experimental Writing Craft",
+    "units": 4,
+    "description": "This reading and craft class explores writing for which the traditional generic distinctions of prose/poetry, fiction/documentary, narrative/discourse do not apply. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A, 8B, or 8C."
+  },
+  {
+    "code": "LTWR 115W",
+    "title": "Experimental Writing Workshop",
+    "units": 4,
+    "description": "This workshop explores writing for which the traditional generic distinctions of prose/poetry, fiction/documentary, narrative/discourse do not apply. Students taking this course will be asked to challenge the boundaries of literature to discover new forms and modes of expression. Renumbered from LTWR 115. LTWR 115W may only be taken once for credit. No credit given for LTWR 115W if prior credit was earned three times for LTWR 115. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A, 8B, or 8C."
+  },
+  {
+    "code": "LTWR 119C",
+    "title": "Writing for Performance Craft",
+    "units": 4,
+    "description": "A survey of experimental approaches to the writing and production of performance works in a range of literary genres. Emphasis will be placed on the integration of written texts with nonverbal elements from the visual arts, theatre, and music. Readings and lectures will accompany creative exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A or 8B."
+  },
+  {
+    "code": "LTWR 119W",
+    "title": "Writing for Performance Workshop",
+    "units": 4,
+    "description": "A workshop of experimental approaches to the writing and production of performance works in a range of literary genres. Emphasis will be placed on the integration of written texts with nonverbal elements from the visual arts, theatre, and music. Renumbered from LTWR 119. LTWR 119W may only be taken once for credit. No credit given for LTWR 119W if prior credit was earned three times for LTWR 119. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A or 8B."
+  },
+  {
+    "code": "LTWR 120C",
+    "title": "Personal Narrative Craft",
+    "units": 4,
+    "description": "A reading and craft class designed to explore writing of all forms of personal experience narrative, including journals, autobiography, firsthand biography, and firsthand chronicle. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8A or 8B or 8C."
+  },
+  {
+    "code": "LTWR 121C",
+    "title": "Media Writing Craft",
+    "units": 4,
+    "description": "A reading and craft class focusing on the review, the op-ed piece, the column, the blurb, the profile, the interview, and \u201ccontent-providing\u201d for websites. We\u2019ll examine current examples of media writing. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8C."
+  },
+  {
+    "code": "LTWR 122C",
+    "title": "Writing for the Sciences Craft",
+    "units": 4,
+    "description": "A reading and craft class in writing about science for the public. Students will study and then construct metaphors or analogues that introduce readers to scientific perplexities. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWR 126C",
+    "title": "Creative Nonfiction Craft",
+    "units": 4,
+    "description": "A reading and craft class on nonfiction pieces that fall outside the limits of the essay form. Included are travel narrative, memoir, and information-based writing that transforms material into compelling literature. Readings and lectures will accompany writing exercises. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8C."
+  },
+  {
+    "code": "LTWR 126W",
+    "title": "Creative Nonfiction Workshop",
+    "units": 4,
+    "description": "A workshop designed to produce nonfiction pieces that fall outside the limits of the essay form. Included are travel narratives, memoir, and information-based writing that transform their own materials into compelling literature. Renumbered from LTWR 126. LTWR 126W may only be taken once for credit. No credit given for LTWR 126W if prior credit was earned three times for LTWR 126. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 8C."
+  },
+  {
+    "code": "LTWR 129C",
+    "title": "Distributing Literature Craft",
+    "units": 4,
+    "description": "A craft-based class designed to critique and engage the means of distributing literature within culture. Publishing from \u201czine\u201d through mainstream publication; web publishing; readings and \u201cslams\u201d; publicity and funding; colloquia with writers; politics and literature; and the uses of performance and media. Readings and lectures will accompany creative exercises and projects. Restricted to major codes LT34 and LT42 and minor codes LT34 and LT39 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": "LTWR 100C or 102C or 120C."
+  },
+  {
+    "code": "LTWR 140",
+    "title": "History of Writing",
+    "units": 4,
+    "description": "A review of the history of the development of alphabets and writing systems. Survey of the rise of literacy since the fifteenth century and analysis of continuing literacy problems in developed and developing countries. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWR 143",
+    "title": "Stylistics and Grammar",
+    "units": 4,
+    "description": "A close look at sentence-level features of written discourse\u2013stylistics and sentence grammars. Students will review recent research on these topics and experiment in their own writing with various stylistic and syntactic options. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWR 144",
+    "title": "The Teaching of Writing",
+    "units": 4,
+    "description": "Wide reading in current theory and practice of teaching writing in schools and colleges. Careful attention to various models of classroom writing instruction and to different approaches in the individual conference. Students in this course may observe instruction in the UC San Diego college writing programs or tutor first-year students in those programs.\u00a0Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWR 148",
+    "title": "Theory for Writers/Writing for Theory",
+    "units": 4,
+    "description": "Hybrid workshop offering writing students a working knowledge of literary theory while exposing literature students to practical techniques from poetry, fiction, and nonfiction to refresh their writing of theoretical nonfiction texts. Discussion of student work and published work. Restricted to major/minor code LT34 during first pass of registration. All other students may register during second pass of registration with the approval of the department.",
+    "prereq_raw": null
+  },
+  {
+    "code": "LTWR 194",
+    "title": "Capstone Course for Writing Majors",
+    "units": 4,
+    "description": "An advanced seminar open to all writing majors in their senior year. Required for those interested in the Honors Program. It offers an integrative experience by considering key facets of the discipline and profession, including relationships between aesthetics/culture and politics, genre writing, craft/technique, literary theories/theories of writing, and distribution/publication. Restricted to major code LT34 or consent of the instructor and department.",
+    "prereq_raw": "senior standing."
+  },
+  {
+    "code": "LTWR 195",
+    "title": "Apprentice Teaching",
+    "units": 4,
+    "description": "Undergraduate instruction assistance. A student will 1) assist TA in editing students\u2019 writing for LTWR 8A-B-C during class and outside of class; and 2) prepare a paper and report for the professor at the end of the quarter. May be taken for credit up to two times.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTWR 196",
+    "title": "Honors Thesis",
+    "units": 4,
+    "description": "Senior thesis research and writing for students who have been accepted for the Literature Honors Program.",
+    "prereq_raw": "department approval."
+  },
+  {
+    "code": "LTWR 220",
+    "title": "Topics in Writing",
+    "units": 4,
+    "description": "This seminar will be organized around any of various topic areas relating to writing (fiction, poetry, cross-genre, theory). Topics might focus on a genre (film, popular novel, theatre) or on the transformations of a theme or metaphor (nation, femininity, the uncanny). S/U grades only. Restricted to major code LT84 or consent of instructor and department. May be taken for credit three times as content varies.",
+    "prereq_raw": null
+  }
+]
