@@ -1,0 +1,170 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+}
+
+.app-loading,
+.app-error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 1rem;
+  text-align: center;
+}
+
+.app-error {
+  color: #ef4444;
+}
+
+.app-header {
+  flex-shrink: 0;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e2e8f0;
+  background: #fff;
+}
+
+.app-title {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.app-header--minimal {
+  padding: 0.5rem 1rem;
+}
+
+.app-subtitle {
+  margin: 0;
+  font-size: 0.8125rem;
+  color: #64748b;
+}
+
+.search-wrap {
+  position: relative;
+  max-width: 420px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9375rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  outline: none;
+}
+
+.search-input:focus {
+  border-color: #0ea5e9;
+  box-shadow: 0 0 0 2px rgba(14, 165, 233, 0.2);
+}
+
+.suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-height: 320px;
+  overflow-y: auto;
+  z-index: 50;
+}
+
+.suggestion-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+}
+
+.suggestion-item:hover {
+  background: #f1f5f9;
+}
+
+.suggestion-code {
+  font-family: ui-monospace, monospace;
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+
+.suggestion-title {
+  font-size: 0.75rem;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.app-main {
+  flex: 1;
+  min-height: 400px; /* ensure Sigma canvas has visible space */
+  background: #f8fafc;
+  touch-action: none; /* smooth pan/zoom on touch */
+}
+
+/* Smoother graph interaction: grab cursor, contain repaints */
+.sigma-graph-container.react-sigma,
+.sigma-graph-container .sigma-container {
+  cursor: grab;
+  touch-action: none;
+  contain: layout style paint;
+}
+.sigma-graph-container.react-sigma:active,
+.sigma-graph-container .sigma-container:active {
+  cursor: grabbing;
+}
+
+@media (prefers-color-scheme: dark) {
+  .app-header {
+    background: #1e293b;
+    border-bottom-color: #334155;
+  }
+
+  .app-title {
+    color: #f1f5f9;
+  }
+
+  .app-subtitle {
+    color: #94a3b8;
+  }
+
+  .search-input {
+    background: #0f172a;
+    border-color: #475569;
+    color: #f1f5f9;
+  }
+
+  .search-input:focus {
+    border-color: #38bdf8;
+  }
+
+  .suggestions {
+    background: #1e293b;
+    border-color: #334155;
+  }
+
+  .suggestion-item:hover {
+    background: #334155;
+  }
+
+  .suggestion-code {
+    color: #f1f5f9;
+  }
+
+  .suggestion-title {
+    color: #94a3b8;
+  }
+
+  .app-main {
+    background: #0f172a;
+  }
+}
